@@ -1,0 +1,27 @@
+project:
+  type: website
+
+website:
+  #favicon: images/icon.png
+  navbar:
+    #title: 
+    #logo: images/home.png
+    #logo-alt: 
+    background: white
+    foreground: black
+    right:
+      - about.qmd
+      - publications.qmd
+      - projects.qmd
+      - posts.qmd
+      #- icon: github
+      #  href: https://github.com/sumeromer
+      #- icon: twitter
+      #  href: https://twitter.com/osuemer
+format:
+  html:
+    theme: journal
+    css: styles.css
+
+
+

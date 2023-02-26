@@ -1,0 +1,59 @@
+---
+title: "Dr. Ömer Sümer"
+image: images/profile.jpg
+about:
+  template: solana
+  image-width: 17em
+  #image-shape: round
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/osuemer
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/omer-sumer/
+    - icon: github
+      text: Github
+      href: https://github.com/sumeromer
+    - text: Scholar
+      icon: google
+      href: https://scholar.google.com/citations?user=h5sbUygAAAAJ&hl=en
+---
+
+I am a computer vision and machine learning researcher who works in various
+applied topics, including affective computing, digital healthcare, and
+biomedical computer vision. Currently, I work as a postdoctoral associate at the
+University of Augsburg. 
+
+I like sharing my passion for *learning from data* and regularly write on the
+intersection of digital humanities and artificial intelligence (you can find
+the English translation of monthly articles that I wrote for
+[manifold](https://www.manifold.press/indeks/omer-sumer) under the blog
+section). Soon, I will start keeping records of small-scale data analysis and
+computer vision/machine learning projects and my notes (under project) 
+
+Aside from work, my hobbies are analog photography, mountains, arts, and
+culture. Typically over the weekends, you can find me developing films in the
+darkroom, visiting an exhibition, or on a hiking tour crossing borders in the
+Alps.
+
+#### Education
+
+{{< fa graduation-cap >}}  **University of Tübingen**, Germany  
+PhD in Computer Science. *August 2017 - March 2021*  
+Multimodal Visual Sensing: Automated Estimation of Engagement
+
+{{< fa graduation-cap >}}  **Istanbul Technical University**, Istanbul, Turkey  
+M.Sc. in Electronics Engineering. *July 2012 - September 2014*  
+
+{{< fa graduation-cap >}}  **Naval Academy**, Istanbul, Turkey  
+B.Sc. in Electronics Engineering.  *July 2006 - August 2010*  
+
+#### Experience
+
+* Exploring real-world solutions at the crossroad of computer vision, speech and natural language processing  
+
+* Pioneering methods of artificial intelligence and machine learning to sense and interact with humans  
+
+* Strong experience in data analytics and machine learning operations (MLOps) for given business problems
+
