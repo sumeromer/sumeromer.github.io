@@ -26,6 +26,11 @@ website:
       #  href: https://github.com/sumeromer
       #- icon: twitter
       #  href: https://twitter.com/osuemer
+  page-footer:
+    center: 
+      - text: "Copyright. 2023 Ömer Sümer" # . Impressum
+        #href: impressum.qmd
+
 format:
   html:
     theme: journal
