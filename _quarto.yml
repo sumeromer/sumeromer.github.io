@@ -30,6 +30,8 @@ format:
   html:
     theme: journal
     css: styles.css
+    fontsize: 0.92em
+    linestretch: 1.5
 
 
 
