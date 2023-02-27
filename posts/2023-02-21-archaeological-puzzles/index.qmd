@@ -37,7 +37,7 @@ are also missing pieces. The transformation between the parts is continuous.
 There may be not just two pieces but many pieces that fit together in a way that
 seems right.
 
-A study3 by researchers Niv Derech, Ayellet Tal, and Ilan Shimshoni from the
+A study[^3] by researchers Niv Derech, Ayellet Tal, and Ilan Shimshoni from the
 Technion and the University of Haifa in Israel brings several innovations to the
 solution of archaeological puzzles. Just as interesting as their mathematical
 approach is that their proposed method can accurately solve puzzles constructed
