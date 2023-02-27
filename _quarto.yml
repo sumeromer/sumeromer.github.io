@@ -3,6 +3,13 @@ project:
   output-dir: docs
 
 website:
+  #cookie-consent: 
+  #    type: implied 
+  #    style: interstitial 
+  #    palette: light
+  google-analytics: 
+    tracking-id: "G-MW9WFPT02T"
+    anonymize-ip: true
   #favicon: images/icon.png
   navbar:
     #title: 
