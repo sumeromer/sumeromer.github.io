@@ -222,5 +222,47 @@
     "title": "Mitosis Detection - Benchmarking",
     "section": "Introduction Breast cancer is the most common cancer type seen in women, with",
     "text": "Introduction Breast cancer is the most common cancer type seen in women, with\napproximately 70,000 new cases per year in Germany. Based on current incidence rates, nearly one in eight women will develop breast cancer in their lifetime (Erdmann et al. 2022) [^2]. One of the most powerful predictive tools for early stage invasive breast cancer is Nottingham histological grading score. Histological grad says “how aggressive a tumor may behave” and depends on three tumor features:\n\nthe extent of tubule formation,\n\nnuclear pleomorphism,\n\nmitotic density"
+  },
+  {
+    "objectID": "tmp/2023-02-27-mitosis-analysis/index.html",
+    "href": "tmp/2023-02-27-mitosis-analysis/index.html",
+    "title": "Mitosis Detection - Benchmarking",
+    "section": "",
+    "text": "In this project, I will present several state-of-the-art object detection methods, apply on mitosis detection problem, and discuss open problems in histopathology from the perspective of machine learning. In that task, I will use publicly available Whole-Slide Imaging (WSI) image datasets in ICPR-MITOS-2012 (Ludovic et al. 2013)."
+  },
+  {
+    "objectID": "tmp/2023-02-27-mitosis-analysis/index.html#introduction",
+    "href": "tmp/2023-02-27-mitosis-analysis/index.html#introduction",
+    "title": "Mitosis Detection - Benchmarking",
+    "section": "Introduction",
+    "text": "Introduction\nBreast cancer is the most common cancer type seen in women, with approximately 70,000 new cases per year in Germany. Based on current incidence rates, nearly one in eight women will develop breast cancer in their lifetime (Erdmann et al. 2022). One of the most powerful predictive tools for early stage invasive breast cancer is Nottingham histological grading score. Histological grad says “how aggressive a tumor may behave” and depends on three tumor features:\n\nthe extent of tubule formation,\n\nnuclear pleomorphism,\n\nmitotic density"
+  },
+  {
+    "objectID": "tmp/2023-02-27-mitosis-analysis/index.html#approach",
+    "href": "tmp/2023-02-27-mitosis-analysis/index.html#approach",
+    "title": "Mitosis Detection - Benchmarking",
+    "section": "Approach",
+    "text": "Approach\n'images': [\n    {\n        'file_name': 'COCO_val2014_000000001268.jpg',\n        'height': 427,\n        'width': 640,\n        'id': 1268\n    },\n    ...\n],\n\n'annotations': [\n    {\n        'segmentation': [[192.81,\n            247.09,\n            ...\n            219.03,\n            249.06]],  # if you have mask labels\n        'area': 1035.749,\n        'iscrowd': 0,\n        'image_id': 1268,\n        'bbox': [192.81, 224.8, 74.73, 33.43],\n        'category_id': 16,\n        'id': 42986\n    },\n    ...\n],\n\n'categories': [\n    {'id': 0, 'name': 'car'},\n ]"
+  },
+  {
+    "objectID": "tmp/2023-02-27-mitosis-analysis/index.html#experiments",
+    "href": "tmp/2023-02-27-mitosis-analysis/index.html#experiments",
+    "title": "Mitosis Detection - Benchmarking",
+    "section": "Experiments",
+    "text": "Experiments"
+  },
+  {
+    "objectID": "tmp/2023-02-27-mitosis-analysis/index.html#dataset",
+    "href": "tmp/2023-02-27-mitosis-analysis/index.html#dataset",
+    "title": "Mitosis Detection - Benchmarking",
+    "section": "Dataset",
+    "text": "Dataset\n\nICPR-MITOS-2012: Exploratory Data Analysis\n\n\nImplementation Details\n\n\nData Processing for Machine Learning Experiments (PyTorch dataloader)\nThe dataset is publicly available from the website of ICPR workshop/contest website1\n\n\nPerformance Metrics"
+  },
+  {
+    "objectID": "tmp/2023-02-27-mitosis-analysis/index.html#results-discussion",
+    "href": "tmp/2023-02-27-mitosis-analysis/index.html#results-discussion",
+    "title": "Mitosis Detection - Benchmarking",
+    "section": "Results & Discussion",
+    "text": "Results & Discussion\n\\begin{equation}\n  \\begin{split}\n  x &= \\frac{1}{2+3} \\\\\n  x &= \\frac{1}{2+3}\n  \\end{split}\n\\end{equation}\nIn the eguation , see\nimport numpy as np\nprint(np.array([0,1,2,3]))"
   }
 ]
