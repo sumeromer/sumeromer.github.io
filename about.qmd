@@ -48,4 +48,8 @@ B.Sc. in Electronics Engineering.  *July 2006 - August 2010*
 
 <p align="center">
   <img width=600px src="images/Oemer_Suemer_maybe_magazine.jpg" />
+    <figcaption style="color: gray; font-style: italic;">
+      Ömer Sümer. Far Away. Lake Constance, Germany (maybe. magazine) <br>
+      Kodak Tri-X 400, push processing@800
+  </figcaption>
 </p>
