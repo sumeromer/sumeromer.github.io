@@ -1,5 +1,5 @@
 ---
-title: "Projects"
+title: "ML/CV"
 listing:
   contents: projects
   sort: "date desc"

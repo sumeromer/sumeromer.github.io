@@ -9,7 +9,6 @@ format:
   html:
     toc: true
     html-math-method: katex
-    css: styles.css
 ---
 
 Aside from the mathematical foundations and theory behind it, data science and

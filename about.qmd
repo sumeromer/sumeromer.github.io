@@ -1,9 +1,9 @@
 ---
-title: "Dr. Ömer Sümer"
-image: images/profile.jpg
+title: "About Me"
+image: images/me.JPG
 about:
   template: solana
-  image-width: 17em
+  image-width: 15em
   #image-shape: round
   links:
     - icon: twitter
@@ -18,30 +18,26 @@ about:
     - text: Scholar
       icon: google
       href: https://scholar.google.com/citations?user=h5sbUygAAAAJ&hl=en
+bibliography: references.bib
 ---
 
-I am a computer vision and machine learning researcher who works in various
-applied topics, including affective computing, digital healthcare, and
-biomedical computer vision. Currently, I work as a postdoctoral associate at the
-University of Augsburg. 
 
-I like sharing my passion for *learning from data* and regularly write on the
-intersection of digital humanities and artificial intelligence (you can find the
-English translation of monthly articles that I wrote for
-[manifold](https://www.manifold.press/indeks/omer-sumer) under the blog
-section). Soon, I will start keeping records of small-scale data analysis and
-computer vision/machine learning projects and my notes (under project) 
+ As a researcher in computer vision and machine learning, I focus on a variety of methods and applications in affective computing, digital healthcare, and biomedical computer vision.
 
-Aside from work, my hobbies are analog photography, mountains, arts, and
-culture. Typically over the weekends, you can find me developing films in the
-darkroom, visiting an exhibition, or on a hiking tour crossing borders in the
-Alps.
+I enjoy sharing my enthusiasm for machine learning and data science. Here, I'm about to begin documenting my zettelkasten notes from what I read, the activities that I participated in, and small-scale data science and machine learning projects. I also write for various sources on how artificial intelligence and the digital humanities interact (you can find the English translation of monthly articles that I wrote for [Manifold](https://www.manifold.press/indeks/omer-sumer)).
+
+
+My interests aside from work include digital and analog photography, mountains, the arts, and culture. Usually, over the weekends, you can find me experimenting with film development processes at home, visiting an exhibition in the area, or on a hiking tour crossing borders in the Alps.
+
+
+**Email:** suemer.oemer@gmail.com
+
 
 #### Education
 
 {{< fa graduation-cap >}}  **University of Tübingen**, Germany  
 PhD in Computer Science. *August 2017 - March 2021*  
-Multimodal Visual Sensing: Automated Estimation of Engagement
+[Multimodal Visual Sensing: Automated Estimation of Engagement](https://publikationen.uni-tuebingen.de/xmlui/handle/10900/113627)
 
 {{< fa graduation-cap >}}  **Istanbul Technical University**, Istanbul, Turkey  
 M.Sc. in Electronics Engineering. *July 2012 - September 2014*  

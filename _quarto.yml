@@ -5,23 +5,23 @@ project:
 website:
   #cookie-consent: 
   #    type: implied 
-  #    style: interstitial 
+  #     style: interstitial 
   #    palette: light
   google-analytics: 
     tracking-id: "G-MW9WFPT02T"
     anonymize-ip: true
   #favicon: images/icon.png
   navbar:
-    #title: 
+    title: Ömer Sümer
     #logo: images/home.png
     #logo-alt: 
     background: white
     foreground: black
     right:
       - about.qmd
-      - publications.qmd
       - projects.qmd
       - posts.qmd
+      # - publications.qmd
       #- icon: github
       #  href: https://github.com/sumeromer
       #- icon: twitter
@@ -33,7 +33,9 @@ website:
 
 format:
   html:
-    theme: journal
+    theme: 
+        - mystyles.scss
+    #mainfont: 
     css: styles.css
     fontsize: 0.92em
     linestretch: 1.5

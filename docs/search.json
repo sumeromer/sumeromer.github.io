@@ -2,16 +2,16 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "Dr. Ömer Sümer",
+    "title": "About Me",
     "section": "",
-    "text": "I am a computer vision and machine learning researcher who works in various applied topics, including affective computing, digital healthcare, and biomedical computer vision. Currently, I work as a postdoctoral associate at the University of Augsburg.\nI like sharing my passion for learning from data and regularly write on the intersection of digital humanities and artificial intelligence (you can find the English translation of monthly articles that I wrote for manifold under the blog section). Soon, I will start keeping records of small-scale data analysis and computer vision/machine learning projects and my notes (under project)\nAside from work, my hobbies are analog photography, mountains, arts, and culture. Typically over the weekends, you can find me developing films in the darkroom, visiting an exhibition, or on a hiking tour crossing borders in the Alps.\n\nEducation\n University of Tübingen, Germany\nPhD in Computer Science. August 2017 - March 2021\nMultimodal Visual Sensing: Automated Estimation of Engagement\n Istanbul Technical University, Istanbul, Turkey\nM.Sc. in Electronics Engineering. July 2012 - September 2014\n Naval Academy, Istanbul, Turkey\nB.Sc. in Electronics Engineering. July 2006 - August 2010\n\n\nExperience\n\nExploring real-world solutions at the crossroad of computer vision, speech and natural language processing\nPioneering methods of artificial intelligence and machine learning to sense and interact with humans\nStrong experience in data analytics and machine learning operations (MLOps) for given business problems"
+    "text": "As a researcher in computer vision and machine learning, I focus on a variety of methods and applications in affective computing, digital healthcare, and biomedical computer vision.\nI enjoy sharing my enthusiasm for machine learning and data science. Here, I’m about to begin documenting my zettelkasten notes from what I read, the activities that I participated in, and small-scale data science and machine learning projects. I also write for various sources on how artificial intelligence and the digital humanities interact (you can find the English translation of monthly articles that I wrote for Manifold).\nMy interests aside from work include digital and analog photography, mountains, the arts, and culture. Usually, over the weekends, you can find me experimenting with film development processes at home, visiting an exhibition in the area, or on a hiking tour crossing borders in the Alps.\nEmail: suemer.oemer@gmail.com\n\nEducation\n University of Tübingen, Germany\nPhD in Computer Science. August 2017 - March 2021\nMultimodal Visual Sensing: Automated Estimation of Engagement\n Istanbul Technical University, Istanbul, Turkey\nM.Sc. in Electronics Engineering. July 2012 - September 2014\n Naval Academy, Istanbul, Turkey\nB.Sc. in Electronics Engineering. July 2006 - August 2010\n\n\nExperience\n\nExploring real-world solutions at the crossroad of computer vision, speech and natural language processing\nPioneering methods of artificial intelligence and machine learning to sense and interact with humans\nStrong experience in data analytics and machine learning operations (MLOps) for given business problems"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Dr. Ömer Sümer",
+    "title": "Ömer Sümer",
     "section": "",
-    "text": "I am a computer vision and machine learning researcher who works in various applied topics, including affective computing, digital healthcare, and biomedical computer vision. Currently, I work as a postdoctoral associate at the University of Augsburg.\nI like sharing my passion for learning from data and regularly write on the intersection of digital humanities and artificial intelligence (you can find the English translation of monthly articles that I wrote for manifold under the blog section). Soon, I will start keeping records of small-scale data analysis and computer vision/machine learning projects and my notes (under project)\nAside from work, my hobbies are analog photography, mountains, arts, and culture. Typically over the weekends, you can find me developing films in the darkroom, visiting an exhibition, or on a hiking tour crossing borders in the Alps.\n\nEducation\n University of Tübingen, Germany\nPhD in Computer Science. August 2017 - March 2021\nMultimodal Visual Sensing: Automated Estimation of Engagement\n Istanbul Technical University, Istanbul, Turkey\nM.Sc. in Electronics Engineering. July 2012 - September 2014\n Naval Academy, Istanbul, Turkey\nB.Sc. in Electronics Engineering. July 2006 - August 2010\n\n\nExperience\n\nExploring real-world solutions at the crossroad of computer vision, speech and natural language processing\nPioneering methods of artificial intelligence and machine learning to sense and interact with humans\nStrong experience in data analytics and machine learning operations (MLOps) for given business problems"
+    "text": "I am a postdoctoral associate in the Chair for Human-Centered Artificial Intelligence at the University of Augsburg. I am working on various topics in computer vision and machine learning. My particular interests are affective computing, digital healthcare, accessibility, and biomedical computer vision.\n\n\n\nThis website serves as a repository for my research notes, blog posts, small data science projects, and English translations of the articles I have written for various sources."
   },
   {
     "objectID": "posts/2022-12-20-in-search-of-lost-languages/index.html",
@@ -121,7 +121,7 @@
   {
     "objectID": "projects.html",
     "href": "projects.html",
-    "title": "Projects",
+    "title": "ML/CV",
     "section": "",
     "text": "No matching items"
   },
@@ -131,5 +131,96 @@
     "title": "Publications",
     "section": "",
     "text": "Peer-reviewed journal papers\n\nÖ. Sümer, P. Goldberg, S. D’Mello, P. Gerjets, U. Trautwein and E. Kasneci, “Multimodal Engagement Analysis from Facial Videos in the Classroom,” in IEEE Transactions on Affective Computing, doi: 10.1109/TAFFC.2021.3127692.\nP. Goldberg, Ö. Sümer, K. Stürmer, W. Wagner, R. Göllner, P. Gerjets, E. Kasneci and U. Trautwein, “Attentive or not? Toward a machine learning approach to assessing students’ visible engagement in classroom instruction,” in Educational Psychology Review, 33, pp.27-49, doi: 10.1007/s10648-019-09514-z.\nÖ. Sümer, E. Bozkir, T. Kübler, S. Grüner, S. Utz and E. Kasneci, “FakeNewsPerception: An eye movement dataset on the perceived believability of news stories,” Data in Brief, 2021, doi: 10.1016/j.dib.2021.106909\n\n\n\nPeer-reviewed conference papers\n\nÖ. Sümer, F. Hellmann, A. Hustinx, T.C. Hsieh, E. André and P. Krawitz, “Few-Shot Meta Learning for Recognizing Facial Phenotypes of Genetic Disorders,” accepted at Medical Informatics Europea 2023 conference, European Federation for Medical Informatics, 2023. (preprint).\nA. Hustinx, F. Hellmann, Ö. Sümer, B. Javanmardi, E. André, P. Krawitz and T.C. Hsieh, “Improving Deep Facial Phenotyping for Ultra-rare Disorder Verification Using Model Ensembles,” 2023 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), Waikoloa, HI, USA, 2023, pp. 5007-5017, doi: 10.1109/WACV56688.2023.00499.\nÖ. Sümer, P. Gerjets, U. Trautwein and E. Kasneci, “Automated Anonymisation of Visual and Audio Data in Classroom Studies,” Workshop on Artificial Intelligence for Education, The Thirty-Fifth AAAI Conference on Artificial Intelligence (AAAI-21), 2021. https://arxiv.org/abs/2001.05080\nÖ. Sümer, P. Gerjets, U. Trautwein and E. Kasneci, “Attention Flow: End-to-End Joint Attention Estimation,” 2020 IEEE Winter Conference on Applications of Computer Vision (WACV), Snowmass, CO, USA, 2020, pp. 3316-3325, doi: 10.1109/WACV45572.2020.9093515.\nÖ. Sümer, P. Goldberg, P. Gerjets, U. Trautwein and E. Kasneci, “Teachers’ Perception in the Classroom,” Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR) Workshops, 2018, pp. 2315-2324 https://arxiv.org/abs/1805.08897\nÖ. Sümer, T. Dencker and B. Ommer, “Self-Supervised Learning of Pose Embeddings from Spatiotemporal Relations in Videos,” 2017 IEEE International Conference on Computer Vision (ICCV), Venice, Italy, 2017, pp. 4308-4317, doi: 10.1109/ICCV.2017.461.\n\n\n\nUnder Review\n\nM.K. Tellamekala, Ö. Sümer, B.W. Schuller, E. André, T. Giesbrecht and M. Valstar, “Are 3D Face Shapes Expressive Enough for Recognising Continuous Emotions and Action Unit Intensities?”, 2022 (Under review) https://arxiv.org/abs/2207.01113\n\n\n\nPreprints\n\nÖ. Sümer, C. Beyan, F. Ruth, O. Kramer, U. Trautwein and E. Kasneci, “Estimating Presentation Competence using Multimodal Nonverbal Behavioral Cues,” , arXiv preprint, 2021. https://arxiv.org/abs/2105.02636"
+  },
+  {
+    "objectID": "projects/2023-02-27-mitosis-analysis/index.html",
+    "href": "projects/2023-02-27-mitosis-analysis/index.html",
+    "title": "Mitosis Detection - Benchmarking",
+    "section": "",
+    "text": "In this project, I will present several state-of-the-art object detection methods, apply on mitosis detection problem, and discuss open problems in histopathology from the perspective of machine learning. In that task, I will use publicly available Whole-Slide Imaging (WSI) image datasets in ICPR-MITOS-2012 (Ludovic et al. 2013)."
+  },
+  {
+    "objectID": "projects/2023-02-27-mitosis-analysis/index.html#motivation",
+    "href": "projects/2023-02-27-mitosis-analysis/index.html#motivation",
+    "title": "Mitosis Detection - Benchmarking",
+    "section": "Motivation",
+    "text": "Motivation\nBreast cancer is the most common cancer type seen in women, with approximately 70,000 new cases per year in Germany. Based on current incidence rates, nearly one in eight women will develop breast cancer in their lifetime (Erdmann et al. 2022) [^2]. One of the most powerful predictive tools for early stage invasive breast cancer is Nottingham histological grading score. Histological grad says “how aggressive a tumor may behave” and depends on three tumor features:\n\nthe extent of tubule formation,\n\nnuclear pleomorphism,\n\nmitotic density"
+  },
+  {
+    "objectID": "projects/2023-02-27-mitosis-analysis/index.html#motivation-breast-cancer-is-the-most-common-cancer-type-seen-in-women-with",
+    "href": "projects/2023-02-27-mitosis-analysis/index.html#motivation-breast-cancer-is-the-most-common-cancer-type-seen-in-women-with",
+    "title": "Mitosis Detection - Benchmarking",
+    "section": "Motivation Breast cancer is the most common cancer type seen in women, with",
+    "text": "Motivation Breast cancer is the most common cancer type seen in women, with\napproximately 70,000 new cases per year in Germany. Based on current incidence rates, nearly one in eight women will develop breast cancer in their lifetime1. One of the most powerful predictive tools for early stage invasive breast cancer is Nottingham histological grading score. Histological grad says “how aggressive a tumor may behave” and depends on three tumor features:\n\nthe extent of tubule formation,\n\nnuclear pleomorphism,\n\nmitotic density\n\nLudovic, Roux, Racoceanu Daniel, Loménie Nicolas, Kulikova Maria, Irshad Humayun, Klossa Jacques, Capron Frédérique, and Genestie Catherine. “Mitosis detection in breast cancer histological images An ICPR 2012 contest.” Journal of pathology informatics 4, no. 1 (2013): 8."
+  },
+  {
+    "objectID": "projects/2023-02-27-mitosis-analysis/index.html#dataset-icpr-mitos-2012",
+    "href": "projects/2023-02-27-mitosis-analysis/index.html#dataset-icpr-mitos-2012",
+    "title": "Mitosis Detection - Benchmarking",
+    "section": "2 Dataset: ICPR-MITOS-2012",
+    "text": "2 Dataset: ICPR-MITOS-2012\nThe dataset is publicly available from the website of ICPR workshop/contest website2\n\\begin{equation}\n  \\begin{split}\n  x &= \\frac{1}{2+3} \\\\\n  x &= \\frac{1}{2+3}\n  \\end{split}\n  \\label{eq:1}\n\\end{equation}\nIn the eguation , see\nimport numpy as np\nprint(np.array([0,1,2,3]))"
+  },
+  {
+    "objectID": "projects/2023-02-27-mitosis-analysis/index.html#data-description-icpr-mitos-2012",
+    "href": "projects/2023-02-27-mitosis-analysis/index.html#data-description-icpr-mitos-2012",
+    "title": "Mitosis Detection - Benchmarking",
+    "section": "2 Data Description (ICPR-MITOS-2012)",
+    "text": "2 Data Description (ICPR-MITOS-2012)\nThe dataset is publicly available from the website of ICPR workshop/contest website2\n\\begin{equation}\n  \\begin{split}\n  x &= \\frac{1}{2+3} \\\\\n  x &= \\frac{1}{2+3}\n  \\end{split}\n  \\label{eq:1}\n\\end{equation}\nIn the eguation , see\nimport numpy as np\nprint(np.array([0,1,2,3]))"
+  },
+  {
+    "objectID": "projects/2023-02-27-mitosis-analysis/index.html#data-description-icpr-mitos12",
+    "href": "projects/2023-02-27-mitosis-analysis/index.html#data-description-icpr-mitos12",
+    "title": "Mitosis Detection - Benchmarking",
+    "section": "2 Data Description (ICPR-MITOS’12)",
+    "text": "2 Data Description (ICPR-MITOS’12)\nThe dataset is publicly available from the website of ICPR workshop/contest website2\n\\begin{equation}\n  \\begin{split}\n  x &= \\frac{1}{2+3} \\\\\n  x &= \\frac{1}{2+3}\n  \\end{split}\n  \\label{eq:1}\n\\end{equation}\nIn the eguation , see\nimport numpy as np\nprint(np.array([0,1,2,3]))"
+  },
+  {
+    "objectID": "projects/2023-02-27-mitosis-analysis/index.html#dataset",
+    "href": "projects/2023-02-27-mitosis-analysis/index.html#dataset",
+    "title": "Mitosis Detection - Benchmarking",
+    "section": "Dataset",
+    "text": "Dataset\n\nICPR-MITOS-2012: Exploratory Data Analysis\n\n\nImplementation Details\n\n\nData Processing for Machine Learning Experiments (PyTorch dataloader)\nThe dataset is publicly available from the website of ICPR workshop/contest website1\n\n\nPerformance Metrics"
+  },
+  {
+    "objectID": "projects/2023-02-27-mitosis-analysis/index.html#introduction",
+    "href": "projects/2023-02-27-mitosis-analysis/index.html#introduction",
+    "title": "Mitosis Detection - Benchmarking",
+    "section": "Introduction",
+    "text": "Introduction\nBreast cancer is the most common cancer type seen in women, with approximately 70,000 new cases per year in Germany. Based on current incidence rates, nearly one in eight women will develop breast cancer in their lifetime (Erdmann et al. 2022). One of the most powerful predictive tools for early stage invasive breast cancer is Nottingham histological grading score. Histological grad says “how aggressive a tumor may behave” and depends on three tumor features:\n\nthe extent of tubule formation,\n\nnuclear pleomorphism,\n\nmitotic density"
+  },
+  {
+    "objectID": "projects/2023-02-27-mitosis-analysis/index.html#method",
+    "href": "projects/2023-02-27-mitosis-analysis/index.html#method",
+    "title": "Mitosis Detection - Benchmarking",
+    "section": "Method",
+    "text": "Method"
+  },
+  {
+    "objectID": "projects/2023-02-27-mitosis-analysis/index.html#approach",
+    "href": "projects/2023-02-27-mitosis-analysis/index.html#approach",
+    "title": "Mitosis Detection - Benchmarking",
+    "section": "Approach",
+    "text": "Approach\n'images': [\n    {\n        'file_name': 'COCO_val2014_000000001268.jpg',\n        'height': 427,\n        'width': 640,\n        'id': 1268\n    },\n    ...\n],\n\n'annotations': [\n    {\n        'segmentation': [[192.81,\n            247.09,\n            ...\n            219.03,\n            249.06]],  # if you have mask labels\n        'area': 1035.749,\n        'iscrowd': 0,\n        'image_id': 1268,\n        'bbox': [192.81, 224.8, 74.73, 33.43],\n        'category_id': 16,\n        'id': 42986\n    },\n    ...\n],\n\n'categories': [\n    {'id': 0, 'name': 'car'},\n ]"
+  },
+  {
+    "objectID": "projects/2023-02-27-mitosis-analysis/index.html#experiments",
+    "href": "projects/2023-02-27-mitosis-analysis/index.html#experiments",
+    "title": "Mitosis Detection - Benchmarking",
+    "section": "Experiments",
+    "text": "Experiments"
+  },
+  {
+    "objectID": "projects/2023-02-27-mitosis-analysis/index.html#results-discussion",
+    "href": "projects/2023-02-27-mitosis-analysis/index.html#results-discussion",
+    "title": "Mitosis Detection - Benchmarking",
+    "section": "Results & Discussion",
+    "text": "Results & Discussion\n\\begin{equation}\n  \\begin{split}\n  x &= \\frac{1}{2+3} \\\\\n  x &= \\frac{1}{2+3}\n  \\end{split}\n\\end{equation}\nIn the eguation , see\nimport numpy as np\nprint(np.array([0,1,2,3]))"
+  },
+  {
+    "objectID": "projects/2023-02-27-mitosis-analysis/index.html#introduction-breast-cancer-is-the-most-common-cancer-type-seen-in-women-with",
+    "href": "projects/2023-02-27-mitosis-analysis/index.html#introduction-breast-cancer-is-the-most-common-cancer-type-seen-in-women-with",
+    "title": "Mitosis Detection - Benchmarking",
+    "section": "Introduction Breast cancer is the most common cancer type seen in women, with",
+    "text": "Introduction Breast cancer is the most common cancer type seen in women, with\napproximately 70,000 new cases per year in Germany. Based on current incidence rates, nearly one in eight women will develop breast cancer in their lifetime (Erdmann et al. 2022) [^2]. One of the most powerful predictive tools for early stage invasive breast cancer is Nottingham histological grading score. Histological grad says “how aggressive a tumor may behave” and depends on three tumor features:\n\nthe extent of tubule formation,\n\nnuclear pleomorphism,\n\nmitotic density"
   }
 ]
