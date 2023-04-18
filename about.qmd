@@ -30,14 +30,16 @@ I enjoy sharing my enthusiasm for machine learning and data science. Here, I'm a
 My interests aside from work include digital and analog photography, mountains, the arts, and culture. Usually, over the weekends, you can find me experimenting with film development processes at home, visiting an exhibition in the area, or on a hiking tour crossing borders in the Alps.
 
 
-**Email:** suemer.oemer@gmail.com
+**Email:** [suemer.oemer@gmail.com](mailto:suemer.oemer@gmail.com)
+
+
 
 
 #### Education
 
-{{< fa graduation-cap >}}  **University of Tübingen**, Germany  
-PhD in Computer Science. *August 2017 - March 2021*  
-[Multimodal Visual Sensing: Automated Estimation of Engagement](https://publikationen.uni-tuebingen.de/xmlui/handle/10900/113627)
+{{< fa graduation-cap >}}  **Eberhard Karls University of Tübingen**, Germany  
+PhD in Computer Science (magna cum laude). *August 2017 - March 2021*  
+Multimodal Visual Sensing: Automated Estimation of Engagement
 
 {{< fa graduation-cap >}}  **Istanbul Technical University**, Istanbul, Turkey  
 M.Sc. in Electronics Engineering. *July 2012 - September 2014*  
@@ -45,9 +47,9 @@ M.Sc. in Electronics Engineering. *July 2012 - September 2014*
 {{< fa graduation-cap >}}  **Naval Academy**, Istanbul, Turkey  
 B.Sc. in Electronics Engineering.  *July 2006 - August 2010*  
 
-
+---
 <p align="center">
-  <img width=600px src="images/Oemer_Suemer_maybe_magazine.jpg" />
+  <img width=100% src="images/Oemer_Suemer_maybe_magazine.jpg" />
     <figcaption style="color: gray; font-style: italic;">
       Ömer Sümer. Far Away. Lake Constance, Germany (maybe. magazine) <br>
       Kodak Tri-X 400, push processing@800
