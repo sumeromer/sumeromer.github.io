@@ -20,9 +20,9 @@ about:
       href: https://scholar.google.com/citations?user=h5sbUygAAAAJ&hl=en
 ---
 
-> <div style="text-align: left"> I am a postdoctoral associate in the Chair for Human-Centered Artificial Intelligence at the University of Augsburg. I am working on various topics in computer vision and machine learning. My particular interests are affective computing, digital healthcare, accessibility, and biomedical computer vision. </div>
+> <div style="text-align: left"> I am a postdoctoral associate in the Chair for Human-Centered Artificial Intelligence at the University of Augsburg. I am working on various topics in computer vision and machine learning. My particular interests are affective computing, accessibility (sign language recognition, translation and generation) and digital healthcare. </div>
 
-<div style="text-align: left"> This website serves as a repository for my research notes, blog posts, small data science projects, and English translations of the articles I have written for various sources. </div>
+<div style="text-align: left">   This website serves as a repository for my research notes, blog posts on small data science projects, and personal writings (mostly science communication, photography, hiking, and other outdoor activities). </div>
 
 
 

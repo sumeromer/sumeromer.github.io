@@ -1,0 +1,18 @@
+---
+title: "Personal Writings"
+listing:
+  contents: personal-writings
+  sort: "date desc"
+  type: default
+  image-align: right
+  max-description-length: 175
+  date-format: medium
+  categories: true
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+title-block-banner: false
+---
+In this section, I share my monthly articles published at [Manifold](https://www.manifold.press/), a Turkish online magazine on design, technology, art and everyday life. I cover the topics in the intersection of artificial intelligence and different areas, mostly in digital humanities, linguistics by aiming to make them understandable by a general audience.
+
+\ \ 

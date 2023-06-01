@@ -22,7 +22,7 @@ bibliography: references.bib
 ---
 
 
-As a researcher in computer vision and machine learning, I focus on a variety of methods and applications in affective computing, digital healthcare, and biomedical computer vision.
+As a researcher in computer vision and machine learning, I focus on a variety of methods and applications in behavior analysis, digital healthcare and biomedical computer vision.
 
 I enjoy sharing my enthusiasm for machine learning and data science. Here, I'm about to begin documenting my zettelkasten notes from what I read, the activities that I participated in, and small-scale data science and machine learning projects. I also write for various sources on how artificial intelligence and the digital humanities interact (you can find the English translation of monthly articles that I wrote for [Manifold](https://www.manifold.press/indeks/omer-sumer)).
 

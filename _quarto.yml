@@ -19,8 +19,9 @@ website:
     foreground: black
     right:
       - about.qmd
-      - projects.qmd
-      - posts.qmd
+      - research.qmd
+      - blog.qmd
+      - personal-writings.qmd
       # - publications.qmd
       #- icon: github
       #  href: https://github.com/sumeromer
@@ -33,12 +34,13 @@ website:
 
 format:
   html:
-    theme: 
-        - mystyles.scss
+    theme: cerulean
+    #theme: 
+    #    - mystyles.scss
     #mainfont: 
-    css: styles.css
+    #css: styles.css
     fontsize: 0.92em
-    linestretch: 1.5
+    linestretch: 2.0
 
 
 

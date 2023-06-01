@@ -1,0 +1,16 @@
+---
+title: "Blog"
+listing:
+  contents: blog
+  sort: "date desc"
+  type: table
+  image-align: right
+  max-description-length: 175
+  date-format: medium
+  categories: true
+  sort-ui: false
+  filter-ui: false
+  fields: [date, title, reading-time]
+page-layout: full
+title-block-banner: false
+---
