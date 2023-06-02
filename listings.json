@@ -1,0 +1,21 @@
+[
+  {
+    "listing": "/research.html",
+    "items": []
+  },
+  {
+    "listing": "/personal-writings.html",
+    "items": [
+      "/personal-writings/2023-05-20-pause-ai-letter/index.html",
+      "/personal-writings/2023-04-20-philological-analysis-and-ai/index.html",
+      "/personal-writings/2023-03-21-ChatGPT-and-LLMs/index.html",
+      "/personal-writings/2023-02-21-archaeological-puzzles/index.html",
+      "/personal-writings/2023-01-20-bringing-back-color/index.html",
+      "/personal-writings/2022-12-20-in-search-of-lost-languages/index.html"
+    ]
+  },
+  {
+    "listing": "/blog.html",
+    "items": []
+  }
+]
