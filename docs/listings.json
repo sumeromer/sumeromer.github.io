@@ -1,5 +1,9 @@
 [
   {
+    "listing": "/blog.html",
+    "items": []
+  },
+  {
     "listing": "/research.html",
     "items": []
   },
@@ -13,9 +17,5 @@
       "/personal-writings/2023-01-20-bringing-back-color/index.html",
       "/personal-writings/2022-12-20-in-search-of-lost-languages/index.html"
     ]
-  },
-  {
-    "listing": "/blog.html",
-    "items": []
   }
 ]

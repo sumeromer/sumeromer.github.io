@@ -19,6 +19,11 @@ about:
       icon: google
       href: https://scholar.google.com/citations?user=h5sbUygAAAAJ&hl=en
 bibliography: references.bib
+format:
+  html:
+    link-external-icon: false
+    link-external-newwindow: true
+    comments: false
 ---
 
 

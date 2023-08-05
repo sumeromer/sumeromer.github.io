@@ -32,15 +32,40 @@ website:
       - text: "Copyright. 2023 Ömer Sümer" # . Impressum
         #href: impressum.qmd
 
+
 format:
   html:
-    theme: cerulean
+    theme:
+      light: [flatly, scss/light.scss]
+    css: scss/styles.css
+    code-link: true
+    link-external-icon: true
+    link-external-newwindow: true
+    smooth-scroll: true
+    highlight-style: gruvbox
+    df-print: kable
+    comments:
+      giscus:
+        repo: AIEduInitiative/AIEduInitiative.github.io
+        category: "Comments"
+        mapping: "pathname"
+        reactions-enabled: true
+        loading: lazy
+        input-position: "bottom"
+editor: visual
+filters:
+  - quarto-version.lua
+
+
+#format:
+  #html:
+  #  theme: cerulean
     #theme: 
     #    - mystyles.scss
     #mainfont: 
-    #css: styles.css
-    fontsize: 0.92em
-    linestretch: 2.0
+    #css: scss/styles.css
+    #fontsize: 0.92em
+    #linestretch: 2.0
 
 
 
