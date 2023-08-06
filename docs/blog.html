@@ -76,9 +76,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-date','listing-title','listing-reading-time',{ data: ['index'] },{ data: ['categories'] }],
+      valueNames: ['listing-date','listing-title','listing-reading-time',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-title-sort'] }],
       
-      searchColumns: [],
+      searchColumns: ["listing-date","listing-title","listing-author"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -120,7 +120,7 @@ gtag('config', 'G-MW9WFPT02T', { 'anonymize_ip': true});
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
     <a class="navbar-brand" href="./index.html">
-    <span class="navbar-title">Ömer Sümer</span>
+    <span class="navbar-title"><span style="color:#44A1A0">Ömer Sümer </span></span>
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
@@ -134,7 +134,7 @@ gtag('config', 'G-MW9WFPT02T', { 'anonymize_ip': true});
  <span class="menu-text">About Me</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./research.html" rel="" target="">
+    <a class="nav-link" href="./research/index.html" rel="" target="">
  <span class="menu-text">Research</span></a>
   </li>  
   <li class="nav-item">
@@ -158,13 +158,13 @@ gtag('config', 'G-MW9WFPT02T', { 'anonymize_ip': true});
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(0)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
 <main class="content column-page-left" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Blog</h1>
+<h1 class="title"><span style="color:#44A1A0">Blog</span></h1>
 </div>
 
 
@@ -200,6 +200,17 @@ Reading Time
 </tr>
 </thead>
 <tbody class="list">
+<tr data-index="0" data-listing-date-sort="1690840800000" data-listing-file-modified-sort="1691274472988" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="690" data-listing-title-sort="Federated Machine Learning" data-listing-filename-sort="index.qmd">
+<td>
+<span class="listing-date">Aug 1, 2023</span>
+</td>
+<td>
+<a href="./blog/2023-08-07 Federated Learning/index.html" class="title listing-title">Federated Machine Learning</a>
+</td>
+<td>
+<span class="listing-reading-time">4 min</span>
+</td>
+</tr>
 </tbody>
 </table>
 <div class="listing-no-matching d-none">
@@ -533,32 +544,22 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (!isInternal(link.href)) {
           // target, if specified
           link.setAttribute("target", "_blank");
-          // default icon
-          link.classList.add("external");
       }
     }
 });
 </script>
-<script src="https://giscus.app/client.js" data-repo="AIEduInitiative/AIEduInitiative.github.io" data-repo-id="" data-category="Comments" data-category-id="" data-mapping="pathname" data-reactions-enabled="1" data-emit-metadata="0" data-input-position="bottom" data-theme="light" data-lang="en" crossorigin="anonymous" data-loading="lazy" async="">
-</script>
-<input type="hidden" id="giscus-base-theme" value="light">
-<input type="hidden" id="giscus-alt-theme" value="dark">
 </div> <!-- /content -->
 <footer class="footer">
   <div class="nav-footer">
     <div class="nav-footer-left">
-      &nbsp;
-    </div>   
+<p>Published with <a href="https://quarto.org/">Quarto</a> v1.4.294</p>
+</div>   
     <div class="nav-footer-center">
-      <ul class="footer-items list-unstyled">
-    <li class="nav-item">
- Copyright. 2023 Ömer Sümer
-  </li>  
-</ul>
+      &nbsp;
     </div>
     <div class="nav-footer-right">
-      &nbsp;
-    </div>
+<p>© 2023 <a href="./about">Ömer Sümer</a></p>
+</div>
   </div>
 </footer>
 

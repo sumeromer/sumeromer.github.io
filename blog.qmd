@@ -1,5 +1,5 @@
 ---
-title: "Blog"
+title: <span style="color:#44A1A0">Blog</span> 
 listing:
   contents: blog
   sort: "date desc"
@@ -13,4 +13,9 @@ listing:
   fields: [date, title, reading-time]
 page-layout: full
 title-block-banner: false
+format:
+  html:
+    link-external-icon: false
+    link-external-newwindow: true
+    comments: false
 ---

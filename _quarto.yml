@@ -12,14 +12,14 @@ website:
     anonymize-ip: true
   #favicon: images/icon.png
   navbar:
-    title: Ömer Sümer
+    title: <span style="color:#44A1A0">Ömer Sümer </span>
     #logo: images/home.png
     #logo-alt: 
     background: white
     foreground: black
     right:
       - about.qmd
-      - research.qmd
+      - research/index.qmd
       - blog.qmd
       - personal-writings.qmd
       # - publications.qmd
@@ -28,10 +28,9 @@ website:
       #- icon: twitter
       #  href: https://twitter.com/osuemer
   page-footer:
-    center: 
-      - text: "Copyright. 2023 Ömer Sümer" # . Impressum
-        #href: impressum.qmd
-
+    border: false
+    left: "Published with [Quarto](https://quarto.org/) v<?quarto.version?> "
+    right: "© 2023 [Ömer Sümer](/about)"
 
 format:
   html:
@@ -46,7 +45,7 @@ format:
     df-print: kable
     comments:
       giscus:
-        repo: AIEduInitiative/AIEduInitiative.github.io
+        repo: sumeromer/sumeromer.github.io
         category: "Comments"
         mapping: "pathname"
         reactions-enabled: true

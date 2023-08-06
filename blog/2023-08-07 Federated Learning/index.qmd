@@ -1,0 +1,113 @@
+---
+title: "Federated Machine Learning"
+subtitle: "Study Notes"
+author: Ömer Sümer
+date: "August 2023" # `r Sys.Date()`
+format:
+    pdf: default
+    html: 
+      number-sections: true
+      toc: true
+      toc-depth: 2
+      self-contained: true
+      grid: 
+        margin-width: 350px
+      link-external-icon: false
+      link-external-newwindow: true
+      comments: false
+execute: 
+  echo: fenced
+reference-location: margin
+citation-location: document #margin
+bibliography: references.bib
+csl: ieee.csl
+---
+
+# Introduction
+
+## What is Federated Learning?
+N data owners $\{F_1,F_2,...,F_N\}$ who wish to train a machine learning model by consolidating their respective data, $\{D_1,D_2,...,D_N\}$:
+
+* the conventional method is to train $M_{SUM}$ on $D=D_1 \cup D_2 \cup ... \cup D_N$,
+
+* federated learning system aims to collaboratively train $M_{FED}$ in which any data owner $F_i$ does not expose its data $D_i$ to others. In addition, the accuracy of $M_{FED}$ denoted $\mathcal{V}_{FED}$ should be very close to the accuracy of $M_{SUM}$, $\mathcal{V}_{SUM}$.
+
+  $|\mathcal{V}_{FED}-\mathcal{V}_{SUM}| < \delta$  $\quad \rightarrow$ FL algorithm has \delta-accuracy loss.
+
+
+**Main References:**
+
+* Previous papers [@Konevcny:2016:a],[@Konevcny:2016:b]
+* FederatedAveraging~[@McMahan:2017:FederatedAveraging]
+
+## Privacy of Federated Learning
+
+How to provide security models and analysis to fulfil meaningful privacy guarantees:
+
+1. **Secure Multiparty Computation (SMC)**  
+   SMC framework for training machine learning models with two servers and semi-honest assumptions [^1].
+
+2. **Differential Privacy**  
+   Differential privacy [^2], k-anonymity, diversification
+
+3. **Homomorphic Encryption**  
+   Homomorphic encryption is a form of encryption that allows computations to be performed or encrypted data without first having to decrypt it.
+
+
+[^1]: P. Mohassel and Y. Zhang, "SecureML: A System for Scalable Privacy-Preserving Machine Learning," *2017 IEEE Symposium on Security and Privacy (SP)*, San Jose, CA, USA, 2017, pp. 19-38, [doi: 10.1109/SP.2017.12](http://www.doi.org/10.1109/SP.2017.12).
+
+[^2]: C. Dwork, "Differential privacy: A survey of results," *International conference on theory and applications of models of computation*, Berlin, 2008, [doi: 10.1007/978-3-540-79228-4_1](https://doi.org/10.1007/978-3-540-79228-4_1) 
+
+
+### Indirect Information Leakage {.unnumbered}
+
+Pioneer works of federated learning expose intermediate results such as parameter updates from an optimization algorithm like stochastic gradient descent (SGD).
+
+$\Rightarrow$ **NO SECURITY GUARANTEE** is provided and the leakage of these gradients may actually leak important data information when exposed together with data structures, such as in the case of image pixels.
+
+> See FederatedAveraging [@McMahan:2017:FederatedAveraging] and privacy-preserving deep learning [@Shokri:2015].
+
+
+## Categorization of FL Approaches
+
+Also, the review article by Yang et al. [@Yang:2019:FL-review] summarizes a categorization of FL approaches:
+
+* Horizontal Federated Learning
+* Vertical Federated Learning
+* Federated Transfer Learning
+
+A more detailed taxanomy from another review, Li et al. [@Li:2021:FL-review]:
+
+1. **Data Partitioning**
+   * $\underline{Horizontal}$  
+     - Datasets of different parties are on the same feature space,
+     - Little intersection on the sample space
+     - Example: FedAvg [@McMahan:2017:FederatedAveraging]
+   * $\underline{Vertical}$  
+     - Datasets of different parties have same or similar sample space,
+     - But differ in the feature space
+     - Example: entity alignment techniques to collect the overlapped data and train ML models using encryption methods
+   * $\underline{Hybrid}$
+     - Federated transfer learning
+     - Use case: a group of hospitals wants to develop a cancer diagnosis system, but they have different medical examination results and different patients.
+2. **Machine Learning Model**
+   * Linear models
+   * Decision trees
+   * Neural networks: FedAvg [@McMahan:2017:FederatedAveraging], FedMA [@Wang:2020], FL-at-scale [@Bonawitz:2019]
+3. **Privacy Mechanism**
+   * Differential privacy
+   * Cryptographic methods
+4. **Communication Architecture**
+   * $\underline{Centralized}$  
+     The data flow is often asymmetric, which means the manager aggregates the information (e.g., local models) from parties and sends back training results
+   * $\underline{Decntralized}$   
+     - The decentralized design is preferred at some aspects since concentrating information on one server may bring potential risks or unfairness. However, the design of the decentralized communication architecture is challenging, which should take fairness and communication overhead into consideration.
+     - P2P (SimFL [@Li:2020]), graph [@Marfoq:2020], blockchain
+5. **Scale of Federation**
+   * $\underline{Cross-silo}$   
+     In cross-silo FL, the parties are organizations or data centers. There are usually a relatively small number of parties and each of them has a relatively large amount of data as well as computational power.
+   * $\underline{Cross-device}$   
+     In cross-device FL, on the contrary, the number of parties is relatively large and each party has a relatively small amount of data as well as computational power.
+6. **Motivation of Federation**
+   * Incentive
+   * Regulation
