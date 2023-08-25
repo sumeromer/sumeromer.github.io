@@ -1,0 +1,117 @@
+---
+title: "My Reflections on *Oppenheimer:* \\\n The Dual Use of Research"
+description: On dual-use research through examples ranging from the atomic bomb to biological weapons.
+author: "Ömer Sümer"
+date: "2023-08-22"
+categories: [manifold.press, artificial intelligence]
+image: "cover.jpg"
+fig-cap-location: margin
+format:
+  html:
+    toc: true
+    html-math-method: katex
+---
+
+One of the two movies popular these days is Christopher Nolan's Oppenheimer. Watching the movie made me think even more about the relationship between science and ethics, which has been on my mind for a long time. First of all, let me state that this article is not a movie review. Here are a few things I can say about the movie: It is a movie worth watching. Although it deals with the story of the construction of the atomic bomb that ended the Second World War, it would not be wrong to say that it focuses on the political aspect of the event rather than the science. We have already experienced similar examples of the witch-hunt known as McCarthyism during the Manhattan Project and its aftermath in Turkey in the same years. In fact, we have been experiencing similar ones in a cycle. What I want to talk about is not the political aspect of the issue. In this article, I will first discuss the moral and ethical responsibilities of scientists in light of the Manhattan Project.
+
+## Manhattan Project
+
+In late 1938, before the outbreak of the Second World War, Otto Hahn and Fritz Strassmann, two physicists from the Kaiser Wilhelm Institute of Chemistry in Berlin, announced that they were able to achieve nuclear fission of uranium. Nuclear fission is the splitting of a uranium atom into two or more particles called barium and krypton by colliding it with a neutron. In the process, neutron particles emit gamma rays and kinetic energy. This scientific breakthrough was soon reported in the United States. All the physicists who heard the news were worried that this reaction could be carried out in a chain reaction and that Nazi Germany would attack the United States with a bomb made with this principle. In 1939, the physicist Leό Szilárd wrote a draft letter to Albert Einstein, who signed it and sent it to then US President Franklin D. Roosevelt. This letter was instrumental in launching the Manhattan Project, the aim of which was to develop a nuclear bomb, with the contribution of scientists from the United States and later from the United Kingdom.[^1]
+
+<figure>
+    <p style="text-align:center;">
+    <img src='images/Sekil-1-2.svg' width="90%"/>
+    </p>
+    <figcaption style="color: gray; font-style: italic;">
+        Albert Einstein and Leό Szilárd
+    </figcaption>
+</figure>
+
+The Manhattan Project's official start date was August 13, 1942. Until that date, physicists from various American universities conducted experiments on this subject. At the University of California, Berkeley, Ernest Lawrence developed a device called a cyclotron, which created a magnetic field within a vacuum, allowing atom particles to collide at speeds of 25,000 miles per second. Simultaneously, another team consisting of Enrico Fermi, Leo Szilárd, Walter Zinn, and Herbert Anderson conducted experiments at Columbia University to measure neutron emission resulting from fission. Ultimately, in December 1942, the first chain reaction (Chicago Pile-1) was achieved at the University of Chicago.
+
+J. Robert Oppenheimer, a physicist, served as the project's director from the beginning. A laboratory was established in Los Alamos, New Mexico, for the project. Plutonium from Hanford and enriched uranium from Oak Ridge were transported there. The Manhattan Project encompassed various production areas and laboratories, and historians estimate that nearly half a million individuals contributed to the development of the atomic bomb in the US[^2].
+
+We are discussing a project that mobilized an incredible amount of resources and manpower. Apart from the movie Oppenheimer, you can reach more information from various sources or documentaries, but I would like to draw attention to a particular point here. The physicists involved in this project were among the world's best in their field and exceptionally intelligent individuals. We should take into account that some of these scientists had Jewish origins, were expelled from their countries of birth and upbringing, and had immigrated to the US just a few years before. This implies that they were acutely aware of the political developments in Europe and the significance of the war, closely monitoring breaking news. Their rationale for participating in an atomic bomb project stemmed from concerns that Nazi Germany might develop the bomb first and use it against the US. By developing this technology first, the US could seize the opportunity to end the war. As they progressed in the project, they came to realize that Germany was far from developing a nuclear bomb. Among all these individuals, only one physicist, a Polish Jew named Joseph Rotblat, chose to withdraw. After the war, he, along with Pugwash, an organization he worked with for nuclear disarmament, received the Nobel Peace Prize in 1995.
+
+The primary motivation for those involved in the project must have been to hasten the end of the war and secure victory for their beloved countries. Perhaps they believed that using such a bomb could lead to fewer deaths than an extended war would. Additionally, the desire to be part of a team that made a significant discovery might have played a role, without fully considering the societal and political implications. But does this justify the deaths of nearly a quarter of a million people, mostly civilians, in a distant part of the world, with hundreds of thousands more suffering indirectly from radiation?
+
+## From Physics to Biology: Dual Use Research of Concern
+
+The Manhattan Project is a widely known example. Similarly, utilizing the energy generated by nuclear fusion for electricity production (despite its significant risks and enduring environmental effects) could be seen as a viable option. Looking at another example from physics, consider the medical imaging techniques like X-rays or magnetic resonance imaging (MRI) that doctors employ for diagnosis and treatment today. All these have emerged from research and development within the field of physics, finding practical applications.
+
+However, the distinction between beneficial uses and risks isn't always as clear as it was in the development of the atomic bomb. Austrian scientists developed a genetic engineering method by introducing a gene called interleukin (IL-4)[^3] into mice, causing them to develop mousepox, a type of poxvirus. Their intention was to create a type of mousepox virus that would sterilize mice and control pests, but this virus ended up killing both healthy mice and those resistant to the mousepox virus. We can't simply say, "Oh well, what harm is there if mice die," because mousepox is one of the deadliest diseases and also a dangerous biological weapon. There is no defense other than a vaccine, and this study rendered the vaccine ineffective.
+
+Let's also consider another news story from the early 2000s. After the genome of polio was sequenced, a group of scientists used DNA synthesis to create a live poliovirus that paralyzed and killed mice. Their goal was to demonstrate that viruses were a kind of chemical substance and that such a technique worked successfully. If a similar method were developed by terrorist groups, viruses that are normally inaccessible outside of state-supported research organizations could be turned into dangerous biological weapons and synthesized for malicious purposes.
+
+<figure>
+    <p style="text-align:center;">
+    <img src='images/Sekil-2.jpg' width="90%"/>
+    </p>
+    <figcaption style="color: gray; font-style: italic;">
+        In particular, some areas of biology involve dual-use research that has the potential to be useful and used as biological weapons that pose great risks to societies. Photo:
+        <a href="https://www.freepik.com/free-photo/scientist-team-protective-suit-preparing-tools-analysing-virus-development-danger-zone-laboratory_15785919.htm#query=biological%20weapons&position=18&from_view=search&track=ais">DCStudio </a>
+    </figcaption>
+</figure>
+
+
+One of the most dangerous viruses in human history was the Spanish flu. During 1918-1919, the Spanish flu resulted in far more deaths than the casualties of World War I. This virus has recently been synthesized by molecular biologists. The goal was to provide protection against future influenza viruses and to use it in vaccine development.
+
+There are many similar examples in the field of biology. Perhaps the most debated one is related to the H5N1 avian influenza virus. In a study conducted on mice that closely resemble humans, a group of scientists examined the transmissibility of bird flu. Although about 60% of those infected with H5N1 died, bird flu did not transmit from human to human. In this study, researchers from the Netherlands and the US demonstrated that bird flu could easily spread among mice through natural mutation and airborne transmission. The US National Science Advisory Board for Biosecurity decided to publish this study without the details of materials and methods to prevent its malicious replication. However, shortly thereafter, on February 9, 2012, the World Health Organization (WHO) recommended that the study be published as is, and it was featured in prestigious scientific journals such as Science and Nature.
+
+Starting from the Manhattan Project and transitioning to biology, all these examples point to one thing: Almost all products of science and technology can be used for both good and bad purposes. Especially if the misuses lead to the production of weapons of mass destruction or large-scale global crises, these studies are referred to as "dual-use research of concern."
+
+## So, Who, What, and How Will Decide?
+
+In the modern world, universities and research institutions can to some extent freely determine what and how research they will conduct. Of course, government institutions and private organizations that fund research may have preferences for certain topics. Beyond this, we see that the dual-use phenomenon imposes separate restrictions (or should) on research. In the initial stage, scientists should evaluate the possibility of dual-use scenarios and consider the ethical and societal aspects of the topic. In the next step, professional organizations should define the best ethical practices and standards in those areas. Beyond deciding whether research should be conducted, if we are talking about an experimental study, the type of security measures taken in the laboratory is also of great importance.
+
+National governments and international organizations also bear a degree of responsibility over researchers and professional organizations. During the Covid-19 pandemic, we saw that the World Health Organization established certain standards and provided coordination. Organizations like the World Health Organization also issue guidelines on dual-use research.
+
+## Some Ethical Dilemmas
+
+Making decisions for regulating scientific studies is not always easy. States can support and even encourage research in areas that benefit society. On the other hand, they can ban or restrict studies that could have malicious outcomes. However, this becomes even more challenging when dual-use scenarios are involved. A *laissez-faire* approach can facilitate scientific progress but can also accelerate the spread of potential dangers. A more restrictive stance can hinder the development of scientific thought. Besides this dilemma, we know that significant scientific advancements don't tend to emerge from countries governed by more totalitarian regimes, leading researchers from such countries to migrate to the Western world.
+
+Making decisions for dual-use research is inherently an ethical issue and is related to the following three factors: 
+
+1. The degree of responsibility of the actors conducting the research, 
+
+2. Issues related to promoting benefits while avoiding or reducing the harms of the study (For instance, should an article be published if it has a high chance of benefiting humanity but a low chance of causing a catastrophe?), and 
+
+3. Matters related to conflicting values and value systems (For example, how should a government strike a balance between its responsibility to ensure security and promoting scientific development and freedom?)[^4]
+
+## Morality and Ethics
+
+In Turkish language and culture, there seems to be an assumption that "morality" is more religious while "ethics" is a secular concept. Actually, morality is related to religion, but it goes beyond that. We can think of morality as the behaviors and values we acquire from childhood, extending to topics that go beyond professional life and into the boundaries of personal life. Ethics, on the other hand, is a more professional field, concerned with behaviors and rules related to a profession. We know that morality can vary across cultures. Ethical values can also be shaped nationally, politically, ethnically, or culturally. Societies can prioritize their values based on the problems they face to survive and might compromise on certain values.
+
+The formation of morality is a complex issue in itself and falls into the domain of developmental psychology. The ability for empathy indicates that it is part of psycho-cultural mechanisms in learning morality and ethics. Maintaining relationships through respect, mutual dependence, empathy, collaboration, and negotiation is crucial, whether it's from friendships to marriages and work relationships. All of these also form the foundations of a moral and ethical perspective. Despite criticisms, the most comprehensive study on moral development is Lawrence Kohlberg's 6 stages of moral development [^5]. These six stages are grouped into three categories, each consisting of two stages: pre-conventional, conventional, and post-conventional.
+
+
+<figure>
+    <p style="text-align:center;">
+    <img src='images/Sekil-3 Kohlberg-Model-of-Moral-Development.svg' width="70%"/>
+    </p>
+    <figcaption style="color: gray; font-style: italic;">
+        The moral development model defined by Lawrence Kohlberg in six stages. Kohlberg applied this model to the dilemma known as the Heinz dilemma: There is a single medicine available for a cancer-stricken wife on her deathbed, and the only pharmacy in town is selling it for $2000 instead of $200. Heinz, after borrowing $1000 from everyone he knows, has managed to gather the amount. In this situation, should he steal the medicine or not? Why? Source: 
+        <a href="https://en.wikipedia.org/wiki/Lawrence_Kohlberg's_stages_of_moral_development#/media/File:Kohlberg_Model_of_Moral_Development.svg">Wikipedia </a>
+    </figcaption>
+</figure>
+
+
+Similar to Kohlberg's model of moral development, there are intertwined dimensions and varied interpretations at play. These interpretations, while not scientific verdicts, often involve intricacies as complex as the problems encountered in everyday life. Returning to the discourse of ethical and moral dual use, a factor that frequently gives rise to dual use or further complicates the ethical interpretation of the matter lies in the scientist's possession of values and responsibilities across different tiers. As individuals, we each harbor a conglomerate of values that contribute to shaping our character. Conversely, the amalgamation of values and priorities in the realm of work and research doesn't consistently align with our personal convictions and beliefs.
+
+Such incongruities manifest widely among scientists. For instance, personal beliefs may clash with the standpoint of the institution they are affiliated with, prompting scientists to remain reticent in order to lead a financially secure life or safeguard their position. Furthermore, researchers might grapple with political or cultural pressures. The Biological Weapons Convention (BWC) sanctions biotechnological research for peaceful intents. Consider a scenario where a country clandestinely pursues a biological weapons development program. Despite a scientist's internal ethical qualms, the activities might be portrayed as benign research endeavors.
+
+This predicament compels one to undertake actions that conflict with their convictions. According to the American social psychologist Leon Festinger, such situations trigger a state of "cognitive dissonance." The remedy lies in attempts to mitigate the inconsistency and resultant discomfort. This stems from the notion that individuals grappling with inner dissonance tend to experience psychological unease, thereby instilling a motivation to diminish cognitive dissonance.
+
+In this article, we have delved into the subject of dual-use research, drawing inspiration from Oppenheimer's insights. The examples cited within, ranging from atomic bombs to biological weaponry, emanate from a more conventional context. Yet, there are contemporary applications, such as the ongoing discourse around autonomous vehicles, the ethical facets of which remain debatable. Additionally, applications related to artificial intelligence and data science form part of this discourse. In forthcoming pieces, I shall undertake a more comprehensive exploration of these intricate predicaments.
+
+
+
+[^1]: Einstein-Szilárd letter, Source: [Wikipedia](https://en.wikipedia.org/wiki/Einstein–Szilard_letter)
+
+[^2]: Wellerstein, Alex. "„How Many People Worked on the Manhattan Project?“." Restricted Data–The Nuclear Secrecy (2013). [https://blog.nuclearsecrecy.com/2013/11/01/many-people-worked-manhattan-project/](https://blog.nuclearsecrecy.com/2013/11/01/many-people-worked-manhattan-project/)
+
+[^3]: Jackson, Ronald J., Alistair J. Ramsay, Carina D. Christensen, Sandra Beaton, Diana F. Hall, and Ian A. Ramshaw. "Expression of mouse interleukin-4 by a recombinant ectromelia virus suppresses cytolytic lymphocyte responses and overcomes genetic resistance to mousepox." Journal of virology 75, no. 3 (2001): 1205-1210. [https://doi.org/10.1128/jvi.75.3.1205-1210.2001](https://doi.org/10.1128/jvi.75.3.1205-1210.2001)
+
+[^4]: Rappert, Brian, and Michael J. Selgelid. On the Dual Uses of Science and Ethics Principles, Practices, and Prospects. ANU Press, 2013. [http://doi.org/10.22459/DUSE.12.2013](http://doi.org/10.22459/DUSE.12.2013)
+
+[^5]: Lawrence Kohlberg's stages of moral development, Source: [Wikipedia](https://en.wikipedia.org/wiki/Lawrence_Kohlberg%27s_stages_of_moral_development).
