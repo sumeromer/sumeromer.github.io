@@ -36,7 +36,7 @@ table, td, th, thead {
 </style>
 
 
-### recent news
+### <span style="color:#44A1A0;"> <u> recent news </u> </span> 
 
 :::: {.columns}
 ::: {.column width="15%"}
@@ -52,14 +52,16 @@ I presented our paper, *"Region-based Saliency Explanations on the Recognition o
 ::: {.column width="25%"}
 ![](publications/figures/Suemer-2023-MLHC.png)
 :::
-::: {.column width="5%"}
+::: {.column width="2%"}
 :::
-::: {.column width="70%"}
+::: {.column width="73%"}
 
-Ömer Sümer, Rebekah L. Waikel, Suzanna E. Ledgister Hanchard, Dat Duong, Peter Krawitz, Cristina Conati, Benjamin D. Solomon, Elisabeth André, "Region-based Saliency Explanations on the Recognition of Facial Genetic Syndromes," Machine Learning for Healthcare Conference, PMLR 219, 2023 [(paper)](https://www.mlforhc.org/s/ID97_Research-Paper_2023.pdf).
-
-[`Paper`](https://drive.google.com/file/d/1273q8xznRlE4kVUZ-T7c6X_HSdR69RvM/view?usp=share_link) 
-[`Poster`](https://drive.google.com/file/d/1-g4-KXJv0Z_jAShyBFo1f5GF85I1acO3/view?usp=share_link) 
+</br>
+<span style="color:#CD5C5C;"> **Region-based Saliency Explanations on the Recognition of Facial Genetic Syndromes** </span>  </br>
+Ömer Sümer, Rebekah L. Waikel, Suzanna E. Ledgister Hanchard, Dat Duong, Peter Krawitz, Cristina Conati, Benjamin D. Solomon, Elisabeth André. </br>
+Machine Learning for Healthcare Conference, 2023. 
+[`Paper`](https://www.mlforhc.org/s/ID97_Research-Paper_2023.pdf)
+[`Poster`](https://drive.google.com/file/d/1-g4-KXJv0Z_jAShyBFo1f5GF85I1acO3/view?usp=share_link)
 [`Database`](https://zenodo.org/record/8209022) 
 [`Code`](https://github.com/sumeromer/facial-gestalt-xai)
 :::
