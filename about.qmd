@@ -1,14 +1,14 @@
 ---
-title: <span style="color:#44A1A0">About Me</span> 
-image: images/me.JPG
+title: About Me
+image: images/profile.JPG
 about:
   template: solana
-  image-width: 15em
-  #image-shape: round
+  image-width: 12em
+  image-shape: round
   links:
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com/osuemer
+    #- icon: twitter
+    #  text: Twitter
+    #  href: https://twitter.com/osuemer
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/omer-sumer/
@@ -26,8 +26,7 @@ format:
     comments: false
 ---
 
-
-As a researcher in computer vision and machine learning, I focus on a variety of methods and applications in behavior analysis, digital healthcare and biomedical computer vision.
+I am a postdoctoral associate in the Chair for Human-Centered Artificial Intelligence at the University of Augsburg. As a researcher in computer vision and machine learning, I focus on a variety of methods and applications in behavior analysis, digital healthcare and biomedical computer vision.
 
 I enjoy sharing my enthusiasm for machine learning and data science. Here, I'm about to begin documenting my zettelkasten notes from what I read, the activities that I participated in, and small-scale data science and machine learning projects. I also write for various sources on how artificial intelligence and the digital humanities interact (you can find the English translation of monthly articles that I wrote for [Manifold](https://www.manifold.press/indeks/omer-sumer)).
 

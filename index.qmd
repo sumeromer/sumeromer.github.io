@@ -1,10 +1,11 @@
 ---
 title: "Ömer Sümer"
-image: images/profile.JPG
+subtitle: "Machine Learning & Computer Vision Researcher"
+image: images/DSCF1760.JPG
 about:
-  template: jolla
-  image-width: 17em
-  #image-shape: round
+  template: marquee
+  image-width: 35em
+  image-shape: rectangle
   links:
     - icon: twitter
       text: Twitter
@@ -25,9 +26,43 @@ format:
     comments: false
 ---
 
-> <div style="text-align: left"> I am a postdoctoral associate in the Chair for Human-Centered Artificial Intelligence at the University of Augsburg. I am working on various topics in computer vision and machine learning. My particular interests are affective computing, accessibility (sign language recognition, translation and generation) and digital healthcare. </div>
+<style>
+table {
+    border-top: hidden;
+}
+table, td, th, thead {
+   border: none!important;
+}
+</style>
 
-<div style="text-align: left">   This website serves as a repository for my research notes, blog posts on small data science projects, and personal writings (mostly science communication, photography, hiking, and other outdoor activities). </div>
 
+### recent news
+
+:::: {.columns}
+::: {.column width="15%"}
+**August 2023** 
+:::
+::: {.column width="80%"}
+I presented our paper, *"Region-based Saliency Explanations on the Recognition of Facial Genetic Syndromes"*, at Machine Learning for Healthcare Conference (MLHC) at Columbia University.
+:::
+:::
+
+
+:::: {.columns}
+::: {.column width="25%"}
+![](publications/figures/Suemer-2023-MLHC.png)
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="70%"}
+
+Ömer Sümer, Rebekah L. Waikel, Suzanna E. Ledgister Hanchard, Dat Duong, Peter Krawitz, Cristina Conati, Benjamin D. Solomon, Elisabeth André, "Region-based Saliency Explanations on the Recognition of Facial Genetic Syndromes," Machine Learning for Healthcare Conference, PMLR 219, 2023 [(paper)](https://www.mlforhc.org/s/ID97_Research-Paper_2023.pdf).
+
+[`Paper`](https://drive.google.com/file/d/1273q8xznRlE4kVUZ-T7c6X_HSdR69RvM/view?usp=share_link) 
+[`Poster`](https://drive.google.com/file/d/1-g4-KXJv0Z_jAShyBFo1f5GF85I1acO3/view?usp=share_link) 
+[`Database`](https://zenodo.org/record/8209022) 
+[`Code`](https://github.com/sumeromer/facial-gestalt-xai)
+:::
+:::
 
 

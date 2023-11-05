@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.4.294">
+<meta name="generator" content="quarto-1.4.480">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -48,12 +48,13 @@ ul.task-list li input[type="checkbox"] {
   "collapse-after": 3,
   "panel-placement": "end",
   "type": "overlay",
-  "limit": 20,
+  "limit": 50,
   "keyboard-shortcut": [
     "f",
     "/",
     "s"
   ],
+  "show-item-context": false,
   "language": {
     "search-no-results-text": "No results",
     "search-matching-documents-text": "matching documents",
@@ -87,7 +88,7 @@ gtag('config', 'G-MW9WFPT02T', { 'anonymize_ip': true});
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
-    <nav class="navbar navbar-expand-lg navbar-dark ">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
     <a class="navbar-brand" href="../../index.html">
@@ -101,20 +102,16 @@ gtag('config', 'G-MW9WFPT02T', { 'anonymize_ip': true});
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../../about.html" rel="" target="">
- <span class="menu-text">About Me</span></a>
+    <a class="nav-link" href="../../about.html"> 
+<span class="menu-text">About Me</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../research/index.html" rel="" target="">
- <span class="menu-text">Research</span></a>
+    <a class="nav-link" href="../../blog.html"> 
+<span class="menu-text">Research Blog</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../blog.html" rel="" target="">
- <span class="menu-text">Blog</span></a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="../../personal-writings.html" rel="" target="">
- <span class="menu-text">Personal Writings</span></a>
+    <a class="nav-link" href="../../personal-writings.html"> 
+<span class="menu-text">Personal Writings</span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
@@ -181,6 +178,7 @@ gtag('config', 'G-MW9WFPT02T', { 'anonymize_ip': true});
 
 </header>
 
+
 <p>Previously, I discussed how archaeologists and philologists use historical examples to decipher lost languages, as well as the opportunities provided by artificial intelligence. Paleography, derived from the Greek words <em>palaiós</em> [ancient] and <em>graphea</em> [spelling], is concerned with reading and comprehending various types of writing as well as deciphering their meaning and significance in a historical context. Experts have been working for months to comprehend these tablets, which are only a few centimeters in size. Even historical documents written in long-dead languages or on cuneiform clay tablets, about which we know a great deal, are difficult to comprehend. Automatic character recognition and language processing technologies are now allowing researchers to conduct more advanced social and cultural analyses of texts, rescuing them from time-consuming and monotonous work. Let’s look at that in this article.</p>
 <section id="reading-the-persepolis-fortification-archive" class="level2">
 <h2 class="anchored" data-anchor-id="reading-the-persepolis-fortification-archive">Reading the Persepolis Fortification Archive</h2>
@@ -188,7 +186,7 @@ gtag('config', 'G-MW9WFPT02T', { 'anonymize_ip': true});
 <p>The University of Chicago has one of the most important institutes and research groups in archaeology and philology in the world. Since excavations last for decades, the universities that carry out the first excavations are also at the forefront of subsequent discoveries and research on those cultures. The first excavations of Persepolis, the capital of ancient Iran, were initiated in 1931 by German archaeologist Ernst Emil Herzfeld, who was commissioned by the Oriental Institute of the University of Chicago. The archive of this institute alone contains tens of thousands of clay tablets that have survived to this day.</p>
 <figure class="figure">
 <img style="float: right;" src="images/fig-01.png" width="75%" class="figure-img">
-<figcaption style="color: gray; font-style: italic;" class="figure-caption">
+<figcaption style="color: gray; font-style: italic;">
 A cuneiform clay tablet from the Persepolis archive of the Oriental Institute at the University of Chicago. Markings in Elamite are labeled on the image, source: <a href="https://cs.uchicago.edu/news/ancient-language-processing-teaching-computers-to-read-cuneiform-tablets/">University of Chicago</a>
 </figcaption>
 </figure>
@@ -198,7 +196,7 @@ A cuneiform clay tablet from the Persepolis archive of the Oriental Institute at
 <p style="text-align:center;">
 <img src="images/fig-02.png" width="95%" class="figure-img">
 </p>
-<figcaption style="color: gray; font-style: italic;" class="figure-caption">
+<figcaption style="color: gray; font-style: italic;">
 An example of digital tools for paleography. A screenshot from the University of Chicago’s Online Cultural and Historical Research Environment (OCHRE) software. A section from the Dead Sea scrolls, source: Sarah Yardney, Miller Prosser, and Sandra R. Schloen, “Digital Tools for Paleography in the OCHRE Database Platform,” A Journal of Biblical Textual Criticism 25 (2020): 129-143.
 </figcaption>
 </figure>
@@ -211,14 +209,14 @@ An example of digital tools for paleography. A screenshot from the University of
 <p style="text-align:center;">
 <img src="images/fig-03.png" width="100%" class="figure-img">
 </p>
-<figcaption style="color: gray; font-style: italic;" class="figure-caption">
+<figcaption style="color: gray; font-style: italic;">
 Screenshot of the Electronic Babylonian Literature (eBL) collection of the Ludwig Maximilian University of Munich, source: <a href="https://www.ebl.lmu.de/corpus">eBL/Corpus</a>
 </figcaption>
 </figure>
 <p>I wondered what was behind a transcription on this scale, and I wondered, “I wonder what methods they used?” A few years ago, in a paper co-authored by Dr.&nbsp;Enrique Jiménez, they explained a little bit about the methods they used. Let’s look at some of the details of that.</p>
 <figure class="figure">
 <img style="float: left;" src="images/fig-04.png" width="75%" class="figure-img">
-<figcaption style="color: gray; font-style: italic;" class="figure-caption">
+<figcaption style="color: gray; font-style: italic;">
 Cuneiform characters on a clay tablet and their conversion to Unicode characters, source: Shai Gordin, Gai Gutherz, Ariel Elazary, Avital Romach, Enrique Jimenez, Jonathan Berant, Yoram Cohen, “Reading Akkadian cuneiform using natural language processing” PloS ONE, 15(10), e0240511, (2020).
 </figcaption>
 </figure>
@@ -230,7 +228,7 @@ Cuneiform characters on a clay tablet and their conversion to Unicode characters
 <h2 class="anchored" data-anchor-id="filling-the-gaps-in-clay-tablets">Filling the Gaps in Clay Tablets</h2>
 <figure class="figure">
 <img style="float: center;" src="images/fig-05.png" width="75%" class="figure-img">
-<figcaption style="color: gray; font-style: italic;" class="figure-caption">
+<figcaption style="color: gray; font-style: italic;">
 Another Akkadian tablet and its transliteration. What is interesting here is the presence of unreadable glyphs in the cracked and shattered parts of the tablet. This is an artificial intelligence-based method and it manages to fill in the gaps. Source: Koren Lazar, Benny Saret, Asaf Yehudai, Wayne Horowitz, Nathan Wasserman, Gabriel Stanovsky, “Filling the Gaps in Ancient Akkadian Texts: A Masked Language Modeling Approach”, in Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing, pp.&nbsp;4682-4691.
 </figcaption>
 </figure>
@@ -378,15 +376,38 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       }
     }
     stripColumnClz(note)
-    if (id.startsWith('sec-')) {
+    const typesetMath = (el) => {
+      if (window.MathJax) {
+        // MathJax Typeset
+        window.MathJax.typeset([el]);
+      } else if (window.katex) {
+        // KaTeX Render
+        var mathElements = el.getElementsByClassName("math");
+        var macros = [];
+        for (var i = 0; i < mathElements.length; i++) {
+          var texText = mathElements[i].firstChild;
+          if (mathElements[i].tagName == "SPAN") {
+            window.katex.render(texText.data, mathElements[i], {
+              displayMode: mathElements[i].classList.contains('display'),
+              throwOnError: false,
+              macros: macros,
+              fleqn: false
+            });
+          }
+        }
+      }
+    }
+    if (id === null || id.startsWith('sec-')) {
       // Special case sections, only their first couple elements
       const container = document.createElement("div");
       if (note.children && note.children.length > 2) {
         for (let i = 0; i < 2; i++) {
           container.appendChild(note.children[i].cloneNode(true));
         }
+        typesetMath(container);
         return container.innerHTML
       } else {
+        typesetMath(note);
         return note.innerHTML;
       }
     } else {
@@ -395,6 +416,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (anchorLink) {
         anchorLink.remove();
       }
+      typesetMath(note);
       return note.innerHTML;
     }
   }
@@ -437,6 +459,29 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
             instance.show();
           });
         }
+      } else {
+        // See if we can fetch a full url (with no hash to target)
+        // This is a special case and we should probably do some content thinning / targeting
+        fetch(url)
+        .then(res => res.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const htmlDoc = parser.parseFromString(html, "text/html");
+          const note = htmlDoc.querySelector('main.content');
+          if (note !== null) {
+            // This should only happen for chapter cross references
+            // (since there is no id in the URL)
+            // remove the first header
+            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+              note.children[0].remove();
+            }
+            const html = processXRef(null, note);
+            instance.setContent(html);
+          } 
+        }).finally(() => {
+          instance.enable();
+          instance.show();
+        });
       }
     }, function(instance) {
     });
@@ -508,6 +553,32 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         });
         selectedAnnoteEl = undefined;
       };
+        // Handle positioning of the toggle
+    window.addEventListener(
+      "resize",
+      throttle(() => {
+        elRect = undefined;
+        if (selectedAnnoteEl) {
+          selectCodeLines(selectedAnnoteEl);
+        }
+      }, 10)
+    );
+    function throttle(fn, ms) {
+    let throttle = false;
+    let timer;
+      return (...args) => {
+        if(!throttle) { // first call gets through
+            fn.apply(this, args);
+            throttle = true;
+        } else { // all the others get throttled
+            if(timer) clearTimeout(timer); // cancel #2
+            timer = setTimeout(() => {
+              fn.apply(this, args);
+              timer = throttle = false;
+            }, ms);
+        }
+      };
+    }
       // Attach click handler to the DT
       const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
       for (const annoteDlNode of annoteDls) {
@@ -566,17 +637,21 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
       var filterRegex = new RegExp('/' + window.location.host + '/');
     var isInternal = (href) => {
-        return filterRegex.test(href) || localhostRegex.test(href);
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
     // Inspect non-navigation links and adorn them if external
- 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item)');
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool)');
     for (var i=0; i<links.length; i++) {
       const link = links[i];
       if (!isInternal(link.href)) {
           // target, if specified
           link.setAttribute("target", "_blank");
+          if (link.getAttribute("rel") === null) {
+            link.setAttribute("rel", "noopener");
+          }
           // default icon
           link.classList.add("external");
       }
@@ -591,7 +666,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 <footer class="footer">
   <div class="nav-footer">
     <div class="nav-footer-left">
-<p>Published with <a href="https://quarto.org/">Quarto</a> v1.4.294</p>
+<p>Published with <a href="https://quarto.org/">Quarto</a> v1.4.480</p>
 </div>   
     <div class="nav-footer-center">
       &nbsp;

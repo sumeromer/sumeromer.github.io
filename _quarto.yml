@@ -19,9 +19,10 @@ website:
     foreground: black
     right:
       - about.qmd
-      - research/index.qmd
+      # - publications/index.qmd
       - blog.qmd
       - personal-writings.qmd
+      #- presentations.qmd
       # - publications.qmd
       #- icon: github
       #  href: https://github.com/sumeromer
@@ -37,6 +38,8 @@ format:
     theme:
       light: [flatly, scss/light.scss]
     css: scss/styles.css
+    fontsize: 0.90em
+    linestretch: 2.0
     code-link: true
     link-external-icon: true
     link-external-newwindow: true
@@ -54,7 +57,6 @@ format:
 editor: visual
 filters:
   - quarto-version.lua
-
 
 #format:
   #html:

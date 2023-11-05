@@ -8,6 +8,7 @@
   {
     "listing": "/personal-writings.html",
     "items": [
+      "/personal-writings/2023-10-22-bias-in-our-decisions/index.html",
       "/personal-writings/2023-08-22-oppenheimer/index.html",
       "/personal-writings/2023-05-20-pause-ai-letter/index.html",
       "/personal-writings/2023-04-20-philological-analysis-and-ai/index.html",
@@ -18,7 +19,9 @@
     ]
   },
   {
-    "listing": "/research/index.html",
-    "items": []
+    "listing": "/presentations.html",
+    "items": [
+      "/presentations/MLHC-2023-01/index.html"
+    ]
   }
 ]
