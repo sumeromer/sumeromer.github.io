@@ -1,10 +1,17 @@
 [
   {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Date\n\n\nTitle\n\n\nReading Time\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "About Me",
     "section": "",
-    "text": "About this site"
+    "text": "As a postdoctoral researcher in the Division of Intelligent Medical Systems (Prof. Lena Maier-Hein) at the German Cancer Research Center (DKFZ), my primary focus is on the development of surgical video and video-language foundation models. This involves the creation of video self-supervised learning methods using a large, curated set of minimally invasive surgical videos from multiple medical sites and surgical procedures. This work is crucial in advancing our understanding of surgical procedures and improving patient outcomes.\nPrior to this, I worked at the University of Augsburg (Human-Centered Artificial Intelligence, Prof. Elisabeth André) in topics of behavior analysis and digital healthcare.\nOne of my greatest joys is sharing my passion for machine learning and data science. I am currently in the process of documenting my zettelkasten notes, which include my readings, activities, and small-scale data science and machine learning projects. I also contribute to various platforms, discussing the intersection of artificial intelligence and the digital humanities. You can find the English translation of my monthly articles, originally written for Manifold, under my personal writings.\nMy interests aside from work include digital and analog photography, mountains, the arts, and culture. Usually, over the weekends, you can find me experimenting with film development processes at home, visiting an exhibition in the area, or on a hiking tour crossing borders in the Alps.\nEmail: suemer.oemer@gmail.com\n\nEducation\n Eberhard Karls University of Tübingen, Germany\nPhD in Computer Science (magna cum laude). August 2017 - March 2021\nMultimodal Visual Sensing: Automated Estimation of Engagement\n Istanbul Technical University, Istanbul, Turkey\nM.Sc. in Electronics Engineering. July 2012 - September 2014\n National Defence University, Turkish Naval Academy, Istanbul, Turkey\nB.Sc. in Electronics Engineering. July 2006 - August 2010\n\n\n\n\nÖmer Sümer. Far Away. Lake Constance, Germany (maybe. magazine)  Kodak Tri-X 400, push processing@800"
   },
   {
     "objectID": "publications/index.html",
@@ -19,5 +26,12 @@
     "title": "Ömer Sümer",
     "section": "",
     "text": "recent news  \n\n\nAugust 2023\n\nI presented our paper, “Region-based Saliency Explanations on the Recognition of Facial Genetic Syndromes”, at Machine Learning for Healthcare Conference (MLHC) at Columbia University.\n\n\n\n\n\n\n\n  Region-based Saliency Explanations on the Recognition of Facial Genetic Syndromes   Ömer Sümer, Rebekah L. Waikel, Suzanna E. Ledgister Hanchard, Dat Duong, Peter Krawitz, Cristina Conati, Benjamin D. Solomon, Elisabeth André.  Machine Learning for Healthcare Conference, 2023.\nPaper Poster Database Code"
+  },
+  {
+    "objectID": "personal-writings.html",
+    "href": "personal-writings.html",
+    "title": "Personal Writings",
+    "section": "",
+    "text": "In this section, I share my monthly articles published at Manifold, a Turkish online magazine on design, technology, art and everyday life. I cover the topics in the intersection of artificial intelligence and different areas, mostly in digital humanities, linguistics by aiming to make them understandable by a general audience.\n  \n\n\n\n\n\n\n\n\n\nNo matching items"
   }
 ]
