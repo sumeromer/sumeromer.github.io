@@ -1,14 +1,39 @@
-# quarto-academic-website-template
+# Quarto Academic Website Template
 
-Here is a template that you can fork to develop your own website with easy adoption and deployment.
+Welcome! This is a simple and customizable template for building your own academic website using [Quarto](https://quarto.org/). You can easily fork, edit, and publish your site with just a few steps.
 
-1. Star this repository so you can easily come back to the template  
-1. Folk this tempate and rename it to yourgithubusername.github.io  
-1. Update and edit `_quarto.yml` file for website setup  
-1. Update and add contents to `posts`, `teaching`, `projects`, and `people` as needed.
-1. Render and preview your website and commit it to your GitHub.
-1. Polish and fix any issues  
-1. Enjoy your website!
+## 🚀 Quick Start
 
-For examples and tips, please check:
-<https://drganghe.github.io/quarto-academic-site-examples.html>
+1. **Star** this repository to bookmark it for future reference.  
+1. **Fork** this repository and rename it to `YourGitHubUserName.github.io`.  
+1. [**Test to publish**](https://quarto.org/docs/publishing/github-pages.html) your site using GitHub Pages (make sure [configuring](https://quarto.org/docs/publishing/images/gh-pages-docs-dir.png) your GitHub repository to publish from the `docs` directory, not the `root` folder). 
+1. **Check** if your website works or not. If successful, you should see exactly the same website as [this one](https://drganghe.github.io/quarto-academic-website-template/) using your own website url:
+   - `https://YourGitHubUserName.github.io` if your repository name is `YourGitHubUserName.github.io`
+   - `https://YourGitHubUserName.github.io/RepositoryName` for other `RepositoryName`
+   - Errors:
+      - If [404](/files/images/Error1.png), it is likely you haven't set up GitHub Pages
+      - If it shows the [README](/files/images/Error2.png) file, it is likely you've published from the `root` folder, not the `docs` directory
+
+If you achieve this milestone to publish the same website using your GitHub Page url, congratulations, you can now start updating your website:
+
+1. **Update** the `_quarto.yml` file to configure your site’s basic settings.  
+1. **Add or edit content** in the following files and folders:
+   - `/posts/` – posts about publications, news, events  
+   - `teaching.qmd` – teaching information  
+   - `projects.yml` – research or other projects  
+   - `people.qmd` and `/people/` – team or collaborators  
+   - `/files/` - profiles, images, pdfs, and includes 
+1. [**Render and preview**](https://quarto.org/docs/websites/) your site locally.  
+1. **`Commit` to publish** your updates.
+1. **Refine and polish** your content and design as needed.  
+1. ✅ Enjoy your new website!
+1. **Link** your website on your official pages to let Google and AI bots include in their search results.
+
+## 🛠 Requirements
+
+- Install [Quarto](https://quarto.org/docs/get-started/)
+- Learn the basics from the [official Quarto documentation](https://quarto.org/docs/websites/)
+
+## 📚 More Examples & Tips
+
+- [Quarto Academic Site Examples and Tips](https://drganghe.github.io/quarto-academic-site-examples.html)
