@@ -1,9 +1,9 @@
 ---
-title: About Me
+title: ""
 image: files/images/Suemer-Bewerbungsfoto.jpg
 about:
-  template: solana
-  image-width: 12em
+  template: trestles
+  image-width: 10em
   image-shape: rectangle
 bibliography: references.bib
 format:
@@ -14,27 +14,21 @@ format:
 ---
 
 <style>
-  /* Override Quarto's CSS grid placement to make content wider */
-  .quarto-about-solana.column-body {
-    grid-column: screen-start-inset / screen-end-inset !important;
-    max-width: 950px !important;
-    width: 100% !important;
-    margin-left: auto !important;
-    margin-right: auto !important;
+  .quarto-about-trestles .about-entity {
+    flex: 0 0 20% !important;
+    max-width: 20% !important;
+  }
+  .quarto-about-trestles .about-contents {
+    flex: 1 1 75% !important;
+    max-width: 75% !important;
   }
 </style>
 
-Hi, I'm Ömer.
-
 I'm an AI/ML researcher and engineer based in Heidelberg, Germany.
 
-I've spent over a decade in computer vision and machine learning — from analyzing students' engagement and behavior during my PhD project at the University of Tübingen, to building AI diagnostics for rare genetic diseases at the University of Augsburg, and more recently working on medical image analysis and LLM-based clinical text processing (surgery videos, pathology and spatial transcriptomics) at the German Cancer Research Center (DKFZ) in Heidelberg. What drives me across all these domains is applied ML itself: talking to field experts to understand their problem, working with messy real-world data, and building systems that actually solve it.
+I've spent over a decade in computer vision and machine learning, from analyzing students' engagement and behavior during my PhD at the University of Tübingen, to building AI diagnostics for rare genetic diseases at the University of Augsburg, and more recently working on medical image analysis and LLM-based clinical text processing at the German Cancer Research Center (DKFZ). What drives me across all these domains is applied ML itself: talking to field experts to understand their problem, working with messy real-world data, and building systems that actually solve it.
 
-Outside of research, I like photography, particularly analog photography — I develop my films at home. I hike across borders in the Alps, slowly learn to climb (some via ferrata routes), and write columns for [Manifold](https://www.manifold.press/indeks/omer-sumer)) on AI and the humanities in Turkish.
-
-Here you'll find what I'm learning, building, and thinking about — from AI/ML notes and hands-on tutorials to reflections on literature, cinema, and culture. Always happy to connect — reach out anytime.
-
-
+Outside of research, I enjoy analog photography and develop my films at home. I hike across borders in the Alps, am slowly learning to climb, and write columns for [Manifold](https://www.manifold.press/indeks/omer-sumer) on AI and the humanities in Turkish.
 
 <nav class="socials" aria-label="Social media links" style="display: flex; gap: 1.0rem;">
   <a href="mailto:suemer.oemer@outlook.com" class="social-card email" target="_blank">
@@ -50,7 +44,6 @@ Here you'll find what I'm learning, building, and thinking about — from AI/ML 
     <i class="bi bi-google"></i> Scholar
   </a>
 </nav>
-
 
 #### **Academic Background**
 
