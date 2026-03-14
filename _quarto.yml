@@ -3,69 +3,54 @@ project:
   output-dir: docs
 
 # Meta
-description-meta: "Quarto Academic Website Template adapted by Dr. Gang He"
-author-meta: "Dr. Gang He"
+description-meta: "Quarto Personal Website Template adapted by Dr. Ömer Sümer"
+author-meta: "Dr. Ömer Sümer"
 
 website:
-  title: "Quarto Academic"
+  title: "Dr. Ömer Sümer"
   image: "https://quarto.org/quarto.png"
-  description: "Quarto Academic Website Template adapted by Dr. Gang He"
+  description: "Quarto Personal Website Template adapted by Dr. Ömer Sümer"
  
   navbar:
+    title: "**~/**"
     background: light  # You can change the background color here
 
     left:   # You can comment out all navigation items here if you just like to keep the index page only
 #      - text: Home
 #        href: index.qmd
       - text: About
-        menu:
-          - text: News
-            href: posts.qmd#category=news
-          - text: Events
-            href: posts.qmd#category=event      
-          - text: Contact
-            href: contact.qmd             
-      - text: Research
-        menu:
-          - text: List of Publications
-            href: publications.qmd
-          - text: Selected Papers
-            href: posts.qmd#category=paper
-          - text: Grants
-            href: projects.qmd                                
-      - text: Teaching # Comment the Teaching part out to remove the Teaching page
-        href: teaching.qmd
-      - text: Outreach
-        menu:        
-        - text: Presentations
-          href: posts.qmd#category=presentation                   
-      - text: Group   # Comment the Group part out to remove the Group page
-        href: people.qmd
+        href: about.qmd            
+      - text: AI/ML Blog
+        href: posts.qmd#category=blog    
+      #- text: Hands-On Tutorials
+      #  href: posts.qmd#category=tutorial 
+      - text: Writing # Comment the Teaching part out to remove the Teaching page
+        href: posts.qmd#category=opinion
+#      - text: Outreach
+#        menu:        
+#        - text: Presentations
+#          href: posts.qmd#category=presentation                   
+#      - text: Group   # Comment the Group part out to remove the Group page
+#        href: people.qmd
 
-    right: 
-      - text: CV
-        href: files/nsf-biosketch.pdf
-      - icon: github
-        href: https://github.com/drganghe/quarto-academic-website-template
-        target: _blank
-      - text: "{{< fa brands bluesky >}}"
-        href: https://bsky.app
-        target: _blank      
-      - icon: rss
-        href: posts.xml
-        target: _blank
+#    right: 
+#      - text: CV
+#        href: files/nsf-biosketch.pdf
+#      - icon: github
+#        href: https://github.com/drganghe/quarto-academic-website-template
+#        target: _blank 
+#      - icon: rss
+#        href: posts.xml
+#        target: _blank
   
-  page-navigation: true
+  page-navigation: false
   
   page-footer: 
-    left: "[Your Name](http://www.github.com) &copy; <script>document.write(new Date().getFullYear())</script>" 
-    center: "Build on [Quart Academic Website Template](https://github.com/drganghe/quarto-academic-website-template) adapted by [Dr. Gang He](http://drganghe.github.io)"
+    left: "Dr. Ömer Sümer &copy; <script>document.write(new Date().getFullYear())</script><br>Published with [Quarto](https://quarto.org/) v1.8.25"
+    center: ""
     right:  
       - icon: github
         href: https://github.com/drganghe/quarto-academic-website-template
-        target: _blank
-      - text: "{{< fa brands bluesky >}}" 
-        href: https://bsky.app
         target: _blank
       - icon: rss
         href: posts.xml
@@ -73,7 +58,7 @@ website:
   
   search:
     location: navbar
-    type: textbox
+    type: overlay
   
   reader-mode: true
 
@@ -95,10 +80,13 @@ website:
 
 bibliography: references.bib  # Add references.bib to the root folder to enable the bibliography function
 
+
 format:
   html:
     theme: cosmo
     css: styles.css
+    grid:
+      body-width: 1200px
     toc: true
     footnotes-hover: true
     code-copy: true

@@ -2,141 +2,50 @@
   {
     "objectID": "posts.html",
     "href": "posts.html",
-    "title": "What’s New & Updated",
+    "title": "Dr. Ömer Sümer",
     "section": "",
-    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nQuarto Academic Website Examples and Tips\n\n\n\n\n\n\nnews\n\n\n\nExamples and tips for Quarto Academic Website\n\n\n\n\n\nOct 15, 2024\n\n\nDr. Gang He\n\n\n\n\n\n\n\n\n\n\n\n\nEvent item\n\n\n\n\n\n\nevent\n\npresentation\n\n\n\nAbout Event item.\n\n\n\n\n\nSep 3, 2024\n\n\nEvent\n\n\n\n\n\n\n\n\n\n\n\n\nNews item\n\n\n\n\n\n\nnews\n\n\n\nAbout new item\n\n\n\n\n\nJun 24, 2024\n\n\nNews\n\n\n\n\n\n\n\n\n\n\n\n\nCan quantum-mechanical description of physical reality be considered complete?\n\n\nPhysical Review\n\n\n\npaper\n\n\n\nOne is thus led to conclude that the description of reality as given by a wave function is not complete.\n\n\n\n\n\nMay 15, 1935\n\n\nAlbert Einstein, Boris Podolsky, Nathan Rosen\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nAcademic Freedom: From Humboldt to the Present\n\n\n\nopinion\n\n\n\nCan academic freedom truly exist when political power, though not present within institutions, exerts external influence by overtly and subtly determining the permissible scope of academic inquiry?\n\n\n\n\n\nFeb 21, 2026\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "Publications",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
     "section": "",
-    "text": "Notes: * corresponding author; GS graduate student advisee; VS visiting scholar;  ESI Highly Cited Paper (top 1%);  ESI Hot Paper (top 0.1%)\nTotal citations as of January 2025:"
+    "text": "Hi, I’m Ömer.\nI’m an AI/ML researcher and engineer based in Heidelberg, Germany.\nI’ve spent over a decade in computer vision and machine learning — from analyzing students’ engagement and behavior during my PhD project at the University of Tübingen, to building AI diagnostics for rare genetic diseases at the University of Augsburg, and more recently working on medical image analysis and LLM-based clinical text processing (surgery videos, pathology and spatial transcriptomics) at the German Cancer Research Center (DKFZ) in Heidelberg. What drives me across all these domains is applied ML itself: talking to field experts to understand their problem, working with messy real-world data, and building systems that actually solve it.\nOutside of research, I like photography, particularly analog photography — I develop my films at home. I hike across borders in the Alps, slowly learn to climb (some via ferrata routes), and write columns for Manifold) on AI and the humanities in Turkish.\nHere you’ll find what I’m learning, building, and thinking about — from AI/ML notes and hands-on tutorials to reflections on literature, cinema, and culture. Always happy to connect — reach out anytime.\n\n  E-mail    GitHub    LinkedIn    Scholar \n\n\nAcademic Background\n Eberhard Karls University of Tübingen, Germany\nPhD in Computer Science (magna cum laude). August 2017 - March 2021\nMultimodal Visual Sensing: Automated Estimation of Engagement\n Istanbul Technical University, Istanbul, Turkey\nM.Sc. in Electronics Engineering. July 2012 - September 2014\n Naval Academy, Istanbul, Turkey\nB.Sc. in Electronics Engineering. July 2006 - August 2010\n\n\n\n\nÖmer Sümer. Far Away. Lake Constance, Germany (maybe. magazine)  Kodak Tri-X 400, push processing@800"
   },
   {
-    "objectID": "publications.html#selected-work",
-    "href": "publications.html#selected-work",
-    "title": "Publications",
-    "section": "Selected Work",
-    "text": "Selected Work\nEinstein, A., Podolsky, B., & Rosen, N. (1935). Can quantum-mechanical description of physical reality be considered complete?. Physical review, 47(10), 777. [pdf] [code and data]   \n\n\n\n\n\n\nEinstein, A. (1965). Concerning an heuristic point of view toward the emission and transformation of light. American Journal of Physics, 33(5), 367. [pdf]"
-  },
-  {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Projects",
+    "objectID": "posts/2026-01-academic-freedom/index.html",
+    "href": "posts/2026-01-academic-freedom/index.html",
+    "title": "Academic Freedom: From Humboldt to the Present",
     "section": "",
-    "text": "Order By\n      Default\n      \n      \n      \n        Title\n      \n      \n        Team\n      \n      \n        Funder\n      \n      \n        Description\n      \n      \n        Start\n      \n      \n        End\n      \n      \n        Funding\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n \n\n\n\nTitle\n\n\n\nTeam\n\n\n\nFunder\n\n\n\nDescription\n\n\n\nFunding\n\n\n\nStart\n\n\n\nEnd\n\n\n\n\n\n\n\n\n\n\n\nExploring \n\n\nAcademic Website\n\n\nFunder\n\n\nThe goal of this project is to investigate .\n\n\n$0\n\n\n2024\n\n\n2025\n\n\n\n\n\n\nNo matching items"
+    "text": "Today, university education and academia function as more than pathways to professional qualification; they serve as primary engines of intellectual advancement and societal progress. Universities generate research, discovery, and innovation across diverse fields, contributing significantly to both humanity and the societies from which they arise. Despite these contributions, significant challenges to academic autonomy and freedom of expression persist, even in relatively robust democracies. The history of academic freedom and the modern university spans only approximately two centuries. Although these concepts may appear abstract, they continue to influence daily student experiences, from curriculum design and participation in seminar courses to the difficulties encountered when addressing controversial topics in the classroom. In this article, I provide a historical perspective, beginning with the educational reforms of Wilhelm von Humboldt, and demonstrate how these developments continue to shape contemporary academic environments.\nThe oldest continuously operating universities are primarily located in Continental Europe and Great Britain, including Bologna, Oxford, Cambridge, and Heidelberg, with founding dates between the 11th and 14th centuries. Although universities in the Islamic world, such as al-Qarawiyyin (Morocco), Ez-Zitouna (Tunisia), and Al-Azhar (Egypt), predate their European counterparts and are rooted in the madrasa system, their structures differ from the European model. Even if the origins of the university are traced to these European institutions, and ancient centers in Egypt, Rome, and China are excluded, it is challenging to assert that these early universities were centers of “science” and “research” as understood today. They primarily functioned as schools of theology, law, and medicine, were supported by local rulers or aristocratic families, and lacked institutional independence.\nWilhelm and Alexander von Humboldt were born into a Prussian aristocratic family in 1767 and 1769, respectively. Their father served as a general in the Prussian army, and their mother was of Huguenot descent. The Huguenots, a significant Calvinist Protestant community, fled France due to persecution and were welcomed in Brandenburg by Prussia. Neither brother attended formal schooling; instead, they received a liberal education from private tutors. While Alexander von Humboldt is renowned for his contributions to geography, natural history, and exploration, Wilhelm von Humboldt’s educational reforms profoundly influenced universities in Germany, Continental Europe, the United Kingdom, and the United States. Notably, although Wilhelm von Humboldt studied at Frankfurt an der Oder and Göttingen, he did not complete a degree and was, in effect, a “dropout.” 1\nThe Prussian model emerged as a central force in scientific advancement, extending its influence internationally. In the 19th century, over 10,000 American researchers traveled to Prussia for doctoral studies, as most American universities did not yet offer PhD programs. At that time, university education primarily emphasized the transmission of established knowledge rather than original research. The two core principles that attracted these researchers to Prussian universities —scientific freedom and the integration of teaching and research— subsequently inspired reforms in American higher education. 2\nWhat is meant by scientific freedom is multi-layered. Before the 19th century, the patron authority of a university had the right to hire or fire any professor without consulting the faculty or other scholars in that discipline. Often, the churches and religious communities that funded the university and provided student scholarships felt entitled to interfere with the curriculum. Professors were encouraged to write textbooks to disseminate existing knowledge rather than to conduct new research and publish the results. In fact, terms like “discovery,” “invention,” or “improvement” were used far more frequently than the word “research” itself.\nAfter Prussia’s defeat in the Napoleonic Wars, the state undertook a series of reforms aimed at understanding its shortcomings and fostering moral renewal, with education as a central focus. Frederick William III established a new university in Berlin, appointing Chancellor Hardenberg and Wilhelm von Humboldt, Director of the Department of Public Instruction and Religious Affairs, to lead the reform. Prior to this appointment, Humboldt argued in his essay “On the Limits of State Action” (Ideen zu einem Versuch, die Grenzen der Wirksamkeit des Staats zu bestimmen) that self-actualization is the primary human motivation, and that freedom is essential for its realization. As individuals pursue their potential, they develop unique competencies that ultimately benefit society. Consequently, any state that restricts individual aspirations and abilities diminishes itself and reduces its citizens to mere subjects (Untertanen). This principle remains highly relevant, even as some states continue to adopt more repressive approaches.\nUpon assuming office in 1809, Humboldt assembled a team and developed a concept paper detailing reforms for primary, secondary, and higher education. Although he resigned soon after due to bureaucratic obstacles and a subordinate position within the ministry, many of his proposals were implemented. These included compulsory primary education, mandatory state examinations for secondary school teachers, a standardized curriculum, and the introduction of the Abitur examination at the conclusion of secondary education. Humboldt also recruited and appointed distinguished researchers and professors to the newly established University of Berlin.\nA closer examination of the university’s function within the Humboldtian model reveals that higher education is designed to foster self-confident individuals and global citizens by providing comprehensive education (Bildung). The primary objective is not to address the immediate needs of the state or society, nor is it solely focused on employment or vocational training.\nIn current practice, many professions that are university departments in other countries are acquired in Germany through vocational training (Ausbildung), with standards set by the state and professional associations. Universities of Applied Sciences (Hochschulen) design curricula to meet the needs of local industries, emphasizing employment-oriented education. However, rapid technological advancement, the neoliberal university model, and reforms introduced by the EU’s Bologna Process since the 2000s have shifted universities away from the Humboldtian ideal. The Bologna Process, for instance, implemented a modular, tiered degree structure (Bachelor’s and Master’s), replacing traditional long-cycle Diplom or Magister programs. This transition resulted in more rigid curricula and standardized credit systems, such as ECTS, often at the expense of academic freedom and self-directed learning. Additionally, some countries introduced or increased tuition fees and shifted toward short-term, project-based research funding rather than stable governmental support. These reforms have prioritized employability, efficiency, and competition over the original mission of holistic personal development and independent scholarship. 3\nHumboldt positioned his educational model as an alternative to the French system, which featured Grandes Écoles specializing in distinct academic disciplines. While Humboldt sought to cultivate the personality of a free individual through education, the French approach emphasized the development of esprit de corps. French universities traditionally maintained rigid curricula, whereas the Humboldtian system prioritized seminars that encouraged students to participate actively rather than remain passive listeners. These seminars are essential for fostering critical discussion and developing a scientific perspective; they remain integral to undergraduate and graduate education in German universities. Over the past century, French universities and prestigious institutions outside Continental Europe, including Cambridge, Oxford, Johns Hopkins, and Chicago, have also adopted this seminar culture. Notably, Stanford University’s motto, “The wind of freedom blows” (Die Luft der Freiheit weht), reflects inspiration from Humboldtian reform.\nWithin the Humboldtian system, with the exception of regulated fields such as law and medicine, students possess the freedom to select courses and design curricula aligned with their personal development and career objectives (freedom of learning, Lernfreiheit). They may also attend courses at other universities. Complementing this is the freedom of teaching, whereby professors determine the subjects and content of their courses within their areas of expertise (freedom of teaching, Lehrfreiheit). Teaching and research are regarded as inseparable activities (unity of research and teaching). According to this perspective, universities and academic institutions distinguish themselves from schools by focusing on unresolved problems and conducting research to address them.\nThe phrase “Science and its teaching are free” (Die Wissenschaft und ihre Lehre ist frei) appeared in Paragraph 152 of the catalogue of fundamental rights adopted at the Frankfurt Paulskirche in 1848, which formed the basis for the first German constitution (Paulskirchenverfassung). Although this constitution was never fully enacted, it significantly influenced the later Weimar Constitution and the current German Basic Law (Grundgesetz). Max Weber’s views were consistent with the Humboldtian system; in a well-known lecture, he emphasized the necessity of instructor neutrality and argued that politics should not enter the lecture hall. According to Weber, professors should refrain from imposing their political views in settings where students cannot effectively challenge them. During the Third Reich (1933–1945), German academia diverged sharply from these freedoms. Heidegger’s 1933 speech as rector of Freiburg University exemplified this shift, as he declared academic freedom “fake,” with only negative connotations, and advocated its removal from German universities. After World War II, figures such as Karl Jaspers, Gerhard Ritter, and Werner Richter played pivotal roles in restructuring German universities, adapting Humboldtian principles of research freedom and the pursuit of truth to postwar conditions.\nA significant gap exists between the ideals of academic neutrality and the realities of contemporary academia. In principle, few would contest Weber’s assertion that politics should remain outside the lecture hall. However, even Weber did not envision scientists as entirely devoid of values; rather, he advocated for the discipline to separate personal convictions from scientific analysis. In practice, maintaining this separation is challenging. Researchers and instructors inevitably carry values shaped by family, environment, and personal experience, which cannot be discarded at will. Nevertheless, the inability to fully detach from personal values does not justify adopting the role of spokesperson for a particular social group or political position. Awareness of one’s values is distinct from allowing them to dictate research and teaching agendas.\nBeyond the challenges of values and neutrality, the question arises whether academic freedom can be fully encapsulated by the concepts of Lernfreiheit and Lehrfreiheit as defined in the Humboldtian system.\nGranting professors tenure and protecting their autonomy in research and teaching is a crucial foundation for academic freedom. However, professors typically lead research teams composed of doctoral students and postdoctoral researchers, for whom they serve as mentors and project managers. In the current scientific landscape, innovation often results from interdisciplinary, national, and international collaboration rather than individual effort. Funding for these teams and their research infrastructure is primarily provided by state-sponsored programs and, to a lesser extent, industry grants. This arrangement creates a parallel to the scholastic era, where direct church intervention has been replaced by indirect but effective control through funding mechanisms. States and private entities now influence research agendas by determining which projects receive financial support. For example, in computer science, proposals in theoretical areas or subfields of artificial intelligence outside of deep learning are less likely to secure funding compared to projects on trending topics such as Large Language Models. This dynamic incentivizes researchers to pursue market-driven topics rather than those driven by intellectual curiosity. Similar funding pressures exist in the humanities and social sciences, where projects related to technology, digital humanities, or contemporary political issues are favored over research on classical literature or abstract philosophical questions. Grants in the social sciences often prioritize studies with immediate policy relevance, making it difficult for more fundamental or critical research to obtain resources. As a result, scholars across disciplines are compelled to align their work with funders’ interests, sometimes at the expense of academic freedom and intellectual diversity. The neoliberal university model, which evaluates research primarily by its marketability, undermines the foundational principles of the Humboldtian system.\nThis dependency is not solely utilitarian or employment-oriented; it also encompasses a pronounced ideological dimension. This is exemplified by the actions of the Trump administration, which threatened or reduced billions of dollars in research funding to elite universities such as Harvard, Columbia, and Penn. These measures were driven by political populism, which labeled inclusivity initiatives (Diversity, Equity, Inclusion, DEI) as “woke” and characterized criticism of Israel’s genocidal actions in Gaza as inherently antisemitic 6 7. Similar conflicts are evident in Europe, where researchers have been dismissed for social media activity, even when such posts do not constitute legally defined offenses 8. In Turkey, the situation is even more acute, with the case of Boğaziçi University standing out among numerous examples. Alignment with political authorities secures research funding, while dissent leads to punitive measures such as course cancellations, tenure revocation, and various forms of workplace harassment. Despite variations in severity, the underlying issue remains consistent: political influence operates externally, exerting pressure on academics and constraining their autonomy. Under these conditions, the very notion of academic freedom is called into question.\nNote: This text was first published in Turkish by Manifold.org. The version presented here is a loose translation of the original article."
   },
   {
-    "objectID": "posts/news-title/index.html",
-    "href": "posts/news-title/index.html",
-    "title": "News item",
-    "section": "",
-    "text": "About the news"
-  },
-  {
-    "objectID": "posts/news-title/index.html#summary",
-    "href": "posts/news-title/index.html#summary",
-    "title": "News item",
-    "section": "",
-    "text": "About the news"
-  },
-  {
-    "objectID": "posts/paper-title/index.html#abstract",
-    "href": "posts/paper-title/index.html#abstract",
-    "title": "Can quantum-mechanical description of physical reality be considered complete?",
-    "section": "Abstract",
-    "text": "Abstract\nIn a complete theory there is an element corresponding to each element of reality. A sufficient condition for the reality of a physical quantity is the possibility of predicting it with certainty, without disturbing the system. In quantum mechanics in the case of two physical quantities described by non-commuting operators, the knowledge of one precludes the knowledge of the other. Then either (1) the description of reality given by the wave function in quantum mechanics is not complete or (2) these two quantities cannot have simultaneous reality. Consideration of the problem of making predictions concerning a system on the basis of measurements made on another system that had previously interacted with it leads to the result that if (1) is false then (2) is also false. One is thus led to conclude that the description of reality as given by a wave function is not complete."
-  },
-  {
-    "objectID": "posts/paper-title/index.html#links",
-    "href": "posts/paper-title/index.html#links",
-    "title": "Can quantum-mechanical description of physical reality be considered complete?",
-    "section": "Links",
-    "text": "Links\nPublished paper"
-  },
-  {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "Teaching",
-    "section": "",
-    "text": "Fall 2024,   Fall 2023\nClass 1 introduction."
-  },
-  {
-    "objectID": "teaching.html#class-1",
-    "href": "teaching.html#class-1",
-    "title": "Teaching",
-    "section": "",
-    "text": "Fall 2024,   Fall 2023\nClass 1 introduction."
-  },
-  {
-    "objectID": "teaching.html#class-2",
-    "href": "teaching.html#class-2",
-    "title": "Teaching",
-    "section": "Class 2",
-    "text": "Class 2\n\n\n\n\n\nSpring 2025,   Fall 2023\nClass 2 introduction."
-  },
-  {
-    "objectID": "teaching.html#class-3",
-    "href": "teaching.html#class-3",
-    "title": "Teaching",
-    "section": "Class 3",
-    "text": "Class 3\n\n\n\n\n\nSpring 2025,   Spring 2024\nClass 3 introduction."
-  },
-  {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
-    "section": "",
-    "text": "Quarto Academic\nSchool\nCollege\nUniversity\nAddress:\nPhone:\nE-mail:"
+    "objectID": "posts/2026-01-academic-freedom/index.html#footnotes",
+    "href": "posts/2026-01-academic-freedom/index.html#footnotes",
+    "title": "Academic Freedom: From Humboldt to the Present",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nJohan Östling, “Humboldt and the Modern German University: An Intellectual History” (2018): 1–312.↩︎\nSteven Muller, “Wilhelm von Humboldt and the University in the United States”, Johns Hopkins APL Technical Digest 6(3) (1985): 253–256.↩︎\nJan C. Bongaerts, “The Humboldtian Model of Higher Education and Its Significance for the European University on Responsible Consumption and Production”, BHM Berg- und Hüttenmännische Monatshefte 167(10) (2022): 500–507.↩︎\nScholars at Risk, Free to Think Report of the Scholars at Risk Academic Freedom Monitoring Project, 2024 and 2025 reports.↩︎\nKatrin Kinzelbach, Staffan I. Lindberg, Lars Lott, and Angelo Vito Panaro. Academic Freedom Index 2025 Update. FAU Erlangen-Nürnberg and V-Dem Institute. doi:10.25593/open-fau-1637.↩︎\nThe Guardian, Global academic freedom group warns Trump is dismantling US higher education, 1 October 2025.↩︎\nThe New Yorker, Inside the Trump Administration’s Assault on Higher Education, 13 October 2025.↩︎\nMatt Fitzpatrick, As the war in Gaza continues, Germany’s unstinting defence of Israel has unleashed a culture war that has just reached Australia, The Conversation, 13 February 2024.↩︎"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Quarto Academic, PhD",
+    "title": "Ömer Sümer",
     "section": "",
-    "text": "Lab\n  \n  \n    \n     Uprofile\n  \n  \n    \n     E-mail\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     YouTube\n  \n  \n      ORCID\n  \n  \n      Web of Science\n  \n  \n      Scopus\n  \n  \n      Google Scholar\n  \n\n  \n  \nI’m a Quarto Academeic Website Template adapted by Dr. Gang He.\nI’m a template that you can fork to build your own website with easy adaptation and deployment.\n\nStar this repository to bookmark it for future reference.\n\nFork this repository and rename it to YourGitHubUserName.github.io.\n\nTest to publish your site using GitHub Pages (make sure configuring your GitHub repository to publish from the docs directory, not the root folder).\nCheck if your website works or not. If successful, you should see exactly the same website as this one using your own website url:\n\nhttps://YourGitHubUserName.github.io if your repository name is YourGitHubUserName.github.io\nhttps://YourGitHubUserName.github.io/RepositoryName for other RepositoryName\nErrors:\n\nIf 404, it is likely you haven’t set up GitHub Pages\nIf it shows the README file, it is likely you’ve published from the root folder, not the docs directory\n\n\n\nIf you achieve this milestone to publish the same website using your GitHub Page url, congratulations, you can now start updating your website:\n\nUpdate the _quarto.yml file to configure your site’s basic settings.\n\nAdd or edit content in the following files and folders:\n\n/posts/ – posts about publications, news, events\n\nteaching.qmd – teaching information\n\nprojects.yml – research or other projects\n\npeople.qmd and /people/ – team or collaborators\n\n/files/ - profiles, images, pdfs, and includes\n\nRender and preview your site locally.\n\nCommit to publish your updates.\nRefine and polish your content and design as needed.\n\n✅ Enjoy your new website!\nLink your website on your official pages to let Google and AI bots include in their search results.\n\n\n\n\nResearcher, Univerisity\n\n\n\n\n\nPhD, Univerisity"
+    "text": "AI/ML Engineer • Computer Vision • NLP/LLMs\n\n\n\n\nHi! I'm an AI/ML researcher and engineer with academic experience in applied computer vision and language processing.\nHere you'll find what I'm learning & building, and thinking about beyond tech, my short articles, anything that draws my interest, literature, cinema, photography, mountains and so on. Always happy to connect over coffee, reach out anytime!\n\n\n\n   E-mail\n  ·\n   GitHub\n  ·\n   LinkedIn\n  ·\n   Scholar\n  ·\n   YouTube"
   },
   {
-    "objectID": "index.html#experience",
-    "href": "index.html#experience",
-    "title": "Quarto Academic, PhD",
+    "objectID": "personal.html",
+    "href": "personal.html",
+    "title": "Personal Writings",
     "section": "",
-    "text": "Researcher, Univerisity"
+    "text": "Read in Turkish (manifold.org),   Fall 2023\nCan academic freedom truly exist when political power, though not present within institutions, exerts external influence by overtly and subtly determining the permissible scope of academic inquiry?"
   },
   {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
-    "title": "Quarto Academic, PhD",
+    "objectID": "personal.html#academic-freedom-from-humboldt-to-the-present",
+    "href": "personal.html#academic-freedom-from-humboldt-to-the-present",
+    "title": "Personal Writings",
     "section": "",
-    "text": "PhD, Univerisity"
-  },
-  {
-    "objectID": "index.html#recent-posts",
-    "href": "index.html#recent-posts",
-    "title": "Quarto Academic, PhD",
-    "section": "Recent Posts",
-    "text": "Recent Posts\nCheck out the latest  Papers ,  News ,  Events , and  More »\n\n\n\n\n\n\n\n\n\n\nQuarto Academic Website Examples and Tips\n\n\n\nOct 15, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nEvent item\n\n\n\nSep 3, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nNews item\n\n\n\nJun 24, 2024\n\n\n\n\n\n\nNo matching items\n\n\nAll Posts »"
-  },
-  {
-    "objectID": "people.html",
-    "href": "people.html",
-    "title": "People",
-    "section": "",
-    "text": "PhD Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nMasters Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nUndergraduate Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nPI\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "people.html#team",
-    "href": "people.html#team",
-    "title": "People",
-    "section": "",
-    "text": "PhD Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nMasters Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nUndergraduate Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nPI\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "people.html#alumni",
-    "href": "people.html#alumni",
-    "title": "People",
-    "section": "Alumni",
-    "text": "Alumni\n\n\n   \n    \n    \n      Order By\n      Default\n      \n      \n      \n        Name\n      \n      \n        Role\n      \n      \n        Started\n      \n      \n        Ended\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n \n\n\n\nName\n\n\n\nRole\n\n\n\nStarted\n\n\n\nEnded\n\n\n\n\n\n\n\n\n\n\n\nAlumni A\n\n\nPhD Alumni\n\n\n2022-01\n\n\n2026-01\n\n\n\n\n\n\n\n\n\nAlumni B\n\n\nMasters Alumni\n\n\n2024-01\n\n\n2025-01\n\n\n\n\n\n\n\n\n\nAlumni C\n\n\nUndergraduate Alumni\n\n\n2023-01\n\n\n2024-01\n\n\n\n\n\n\nNo matching items"
+    "text": "Read in Turkish (manifold.org),   Fall 2023\nCan academic freedom truly exist when political power, though not present within institutions, exerts external influence by overtly and subtly determining the permissible scope of academic inquiry?"
   }
 ]

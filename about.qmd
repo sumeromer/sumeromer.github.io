@@ -1,0 +1,74 @@
+---
+title: About Me
+image: files/images/Suemer-Bewerbungsfoto.jpg
+about:
+  template: solana
+  image-width: 12em
+  image-shape: rectangle
+bibliography: references.bib
+format:
+  html:
+    link-external-icon: false
+    link-external-newwindow: true
+    comments: false
+---
+
+<style>
+  /* Override Quarto's CSS grid placement to make content wider */
+  .quarto-about-solana.column-body {
+    grid-column: screen-start-inset / screen-end-inset !important;
+    max-width: 950px !important;
+    width: 100% !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+  }
+</style>
+
+Hi, I'm Ömer.
+
+I'm an AI/ML researcher and engineer based in Heidelberg, Germany.
+
+I've spent over a decade in computer vision and machine learning — from analyzing students' engagement and behavior during my PhD project at the University of Tübingen, to building AI diagnostics for rare genetic diseases at the University of Augsburg, and more recently working on medical image analysis and LLM-based clinical text processing (surgery videos, pathology and spatial transcriptomics) at the German Cancer Research Center (DKFZ) in Heidelberg. What drives me across all these domains is applied ML itself: talking to field experts to understand their problem, working with messy real-world data, and building systems that actually solve it.
+
+Outside of research, I like photography, particularly analog photography — I develop my films at home. I hike across borders in the Alps, slowly learn to climb (some via ferrata routes), and write columns for [Manifold](https://www.manifold.press/indeks/omer-sumer)) on AI and the humanities in Turkish.
+
+Here you'll find what I'm learning, building, and thinking about — from AI/ML notes and hands-on tutorials to reflections on literature, cinema, and culture. Always happy to connect — reach out anytime.
+
+
+
+<nav class="socials" aria-label="Social media links" style="display: flex; gap: 1.0rem;">
+  <a href="mailto:suemer.oemer@outlook.com" class="social-card email" target="_blank">
+    <i class="bi bi-envelope-fill"></i> E-mail
+  </a>
+  <a href="https://github.com/sumeromer" class="social-card github" target="_blank">
+    <i class="bi bi-github"></i> GitHub
+  </a>
+  <a href="https://www.linkedin.com/in/omer-sumer" class="social-card linkedin" target="_blank">
+    <i class="bi bi-linkedin"></i> LinkedIn
+  </a>
+  <a href="https://scholar.google.com/citations?hl=en&user=h5sbUygAAAAJ&view_op=list_works&sortby=pubdate" class="social-card scholar" target="_blank">
+    <i class="bi bi-google"></i> Scholar
+  </a>
+</nav>
+
+
+#### **Academic Background**
+
+{{< fa graduation-cap >}}  **Eberhard Karls University of Tübingen**, Germany  
+PhD in Computer Science (magna cum laude). *August 2017 - March 2021*  
+[Multimodal Visual Sensing: Automated Estimation of Engagement](https://publikationen.uni-tuebingen.de/xmlui/handle/10900/113627)
+
+{{< fa graduation-cap >}}  **Istanbul Technical University**, Istanbul, Turkey  
+M.Sc. in Electronics Engineering. *July 2012 - September 2014*  
+
+{{< fa graduation-cap >}}  **Naval Academy**, Istanbul, Turkey  
+B.Sc. in Electronics Engineering.  *July 2006 - August 2010*  
+
+---
+<p align="center">
+  <img width=100% src="files/images/Oemer_Suemer_maybe_magazine.jpg" />
+    <figcaption style="color: gray; font-style: italic;">
+      Ömer Sümer. Far Away. Lake Constance, Germany (maybe. magazine) <br>
+      Kodak Tri-X 400, push processing@800
+  </figcaption>
+</p>

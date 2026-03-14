@@ -1,19 +1,18 @@
 ---
-title: "What’s New & Updated"
-subtitle: "Posts about papers, events, news, and more"
-description-meta: "Posts about papers, events, news, and more"
-listing: 
+title: ""
+subtitle: ""
+description-meta: "Blog posts, tutorials and opinion"
+listing:
   sort: "date desc"
   type: default
+  image-height: 200px
   page-size: 100
   categories: true
   sort-ui: true
   filter-ui: true
   feed: true
-  contents: 
+  contents:
       - posts
-      - posts/post-links.yml  # Use this file to add external links
-#      categories: [] 
 
 #page-layout: full
 draft-mode: unlinked

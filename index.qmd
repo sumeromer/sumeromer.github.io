@@ -1,117 +1,92 @@
 ---
-title: "Quarto Academic, PhD"
-description-meta: "Quarto Academic Website Template adapted by Dr. Gang He"
-image: "files/images/placeholder4.JPG"
+title: ""
+description-meta: "Personal Website - Ömer Sümer"
 page-navigation: false
 toc: false
-#sidebar: false
+sidebar: false
 page-layout: full
+format:
+  html:
+    include-in-header:
+      - text: |
+          <style>
+            #quarto-content {
+              display: block !important;
+            }
 
-about:
-  id: hero-heading
-  template: trestles
-  image-width: 70%
-  links:
-    - icon: sun
-      text: Lab
-      href: https://www.github.com
-      target: _blank
-    - icon: globe
-      text: Uprofile
-      href: https://baruch.cuny.edu
-      target: _blank
-    - icon: envelope
-      text: E-mail
-      href: mailto:email@gmail.com    
-    - icon: linkedin
-      text: LinkedIn
-      href: https://linkedin.com
-      target: _blank
-    - icon: youtube
-      text: YouTube
-      href: https://www.youtube.com     
-      target: _blank 
-    - text: "{{< ai orcid >}} ORCID"   # use academic icons, "" are needed, you also need to install the fontawesome extension
-      href: https://orcid.org
-      target: _blank
-    - text: "{{< ai clarivate >}} Web of Science"
-      href: https://www.webofscience.com  
-      target: _blank
-    - text: "{{< ai scopus >}} Scopus"
-      href: https://www.scopus.com
-      target: _blank
-    - text: "{{< ai google-scholar >}} Google Scholar"
-      href: https://scholar.google.com
-      target: _blank
-#    - text: "{{< ai researchgate >}} Research Gate"
-#      href: https://www.researchgate.net
-#      target: _blank
+            #quarto-document-content {
+              max-width: 800px !important;
+              margin: 0 auto !important;
+              text-align: left;
+              padding: 4em 1.5rem 1rem;
+            }
 
-listing:   # Comment the listing section and delete corresponding lines in the index.qmd file to remove the recent posts
-  - id: recent-posts
-    contents: 
-      - posts
-      - posts/post-links.yml
-    exclude:
-      title: ""
-    type: grid
-    max-items: 3
-#    image-height: 150px
-    page-size: 3 #set same as max-times to remove the page number setting
-    fields: [image, date, title, subtitle]
-    max-description-length: 75
-    sort: 
-      - "date desc"
-      - "title asc"
+            h1.hero-title {
+              font-size: 2.2rem;
+              font-weight: 600;
+              letter-spacing: -0.5px;
+              color: #222;
+              margin-bottom: 0.3rem;
+            }
+
+            p.tagline {
+              font-size: 1.15rem;
+              color: #555;
+              margin-bottom: 2.5rem;
+              font-style: italic;
+            }
+
+            .social-links {
+              margin-top: 2rem;
+              font-size: 1.1rem;
+            }
+
+            .social-links a {
+              color: #2a6496;
+              text-decoration: none;
+              transition: color 0.2s ease;
+            }
+
+            .social-links a:hover {
+              color: #1a1a1a;
+              text-decoration: underline;
+            }
+
+            .social-links .sep {
+              color: #bbb;
+              margin: 0 0.3rem;
+            }
+
+            @media (max-width: 576px) {
+              #quarto-document-content { padding: 2.5rem 1rem; }
+              h1.hero-title { font-size: 2rem; }
+              p.tagline { font-size: 1rem; margin-bottom: 2rem; }
+              nav.socials { gap: 0.8rem; }
+            }
+          </style>
 ---
 
-:::{#hero-heading}
-
-I'm a [Quarto Academeic Website Template](https://github.com/drganghe/quarto-academic-website-template) adapted by [Dr. Gang He](http://drganghe.github.io).
-
-I'm a template that you can fork to build your own website with easy adaptation and deployment.
-
-1. **Star** this repository to bookmark it for future reference.  
-1. **Fork** this repository and rename it to `YourGitHubUserName.github.io`.  
-1. [**Test to publish**](https://quarto.org/docs/publishing/github-pages.html) your site using GitHub Pages (make sure [configuring](https://quarto.org/docs/publishing/images/gh-pages-docs-dir.png) your GitHub repository to publish from the `docs` directory, not the `root` folder). 
-1. **Check** if your website works or not. If successful, you should see exactly the same website as [this one](https://drganghe.github.io/quarto-academic-website-template/) using your own website url:
-   - `https://YourGitHubUserName.github.io` if your repository name is `YourGitHubUserName.github.io`
-   - `https://YourGitHubUserName.github.io/RepositoryName` for other `RepositoryName`
-   - Errors:
-      - If [404](/files/images/Error1.png), it is likely you haven't set up GitHub Pages
-      - If it shows the [README](/files/images/Error2.png) file, it is likely you've published from the `root` folder, not the `docs` directory
-
-If you achieve this milestone to publish the same website using your GitHub Page url, congratulations, you can now start updating your website:
-
-1. **Update** the `_quarto.yml` file to configure your site’s basic settings.  
-1. **Add or edit content** in the following files and folders:
-   - `/posts/` – posts about publications, news, events  
-   - `teaching.qmd` – teaching information  
-   - `projects.yml` – research or other projects  
-   - `people.qmd` and `/people/` – team or collaborators  
-   - `/files/` - profiles, images, pdfs, and includes 
-1. [**Render and preview**](https://quarto.org/docs/websites/) your site locally.  
-1. **`Commit` to publish** your updates.
-1. **Refine and polish** your content and design as needed.  
-1. ✅ Enjoy your new website!
-1. **Link** your website on your official pages to let Google and AI bots include in their search results.
-
-## Experience
-
-- Researcher, Univerisity
-
-## Education
-
-- PhD, Univerisity
-
-:::
+```{=html}
+<div>
+  <h1 class="hero-title">Ömer Sümer</h1>
+  <p class="tagline">AI/ML Engineer • Computer Vision • NLP/LLMs</p>
+</div>
 
 
-<!-- Delete the following section and delete corresponding lines in the yaml part to remove the recent posts -->
-## Recent Posts
-Check out the latest &nbsp;[Papers](posts.qmd#category=paper)&nbsp;, &nbsp;[News](posts.qmd#category=news)&nbsp;, &nbsp;[Events](posts.qmd#category=event)&nbsp;, and &nbsp;[More »](/posts.qmd)
+<div style="font-size: 1.1rem; line-height: 1.8;">
+<p>Hi! I'm an AI/ML researcher and engineer with academic experience in applied computer vision and language processing.</p>
+<p>Here you'll find <a href="posts.html#category=blog">what I'm learning & building</a>, and <a href="posts.html#category=opinion">thinking about beyond tech, my short articles</a>, anything that draws my interest, literature, cinema, photography, mountains and so on. Always happy to connect over coffee, reach out anytime!</p>
+</div>
 
-:::{#recent-posts}
-:::
-
-<p align="right">[All Posts »](/posts.qmd)</p>
+<nav class="social-links" aria-label="Social media links">
+  <a href="mailto:suemer.oemer@outlook.com" target="_blank"><i class="bi bi-envelope-fill"></i> E-mail</a>
+  <span class="sep">·</span>
+  <a href="https://github.com/sumeromer" target="_blank"><i class="bi bi-github"></i> GitHub</a>
+  <span class="sep">·</span>
+  <a href="https://www.linkedin.com/in/omer-sumer" target="_blank"><i class="bi bi-linkedin"></i> LinkedIn</a>
+  <span class="sep">·</span>
+  <a href="https://scholar.google.com/citations?hl=en&user=h5sbUygAAAAJ&view_op=list_works&sortby=pubdate" target="_blank"><i class="bi bi-google"></i> Scholar</a>
+  <span class="sep">·</span>
+  <a href="https://www.youtube.com" target="_blank"><i class="bi bi-youtube"></i> YouTube</a>
+</nav>
+```
